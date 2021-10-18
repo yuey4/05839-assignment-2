@@ -1,0 +1,2566 @@
+city,latitude,longitude
+"New York,NY",40.6943,-73.9249
+"Los Angeles,CA",34.1139,-118.4068
+"Chicago,IL",41.8373,-87.6862
+"Miami,FL",25.7839,-80.2102
+"Dallas,TX",32.7936,-96.7662
+"Philadelphia,PA",40.0077,-75.1339
+"Houston,TX",29.7863,-95.3889
+"Atlanta,GA",33.7627,-84.4224
+"Washington,DC",38.9047,-77.0163
+"Boston,MA",42.3188,-71.0846
+"Phoenix,AZ",33.5722,-112.0891
+"Seattle,WA",47.6211,-122.3244
+"San Francisco,CA",37.7562,-122.443
+"Detroit,MI",42.3834,-83.1024
+"San Diego,CA",32.8312,-117.1225
+"Minneapolis,MN",44.9635,-93.2678
+"Tampa,FL",27.9942,-82.4451
+"Denver,CO",39.7621,-104.8759
+"Brooklyn,NY",40.6501,-73.9496
+"Queens,NY",40.7498,-73.7976
+"Riverside,CA",33.9381,-117.3948
+"Baltimore,MD",39.3051,-76.6144
+"Las Vegas,NV",36.2333,-115.2654
+"Portland,OR",45.5372,-122.65
+"San Antonio,TX",29.4658,-98.5253
+"St. Louis,MO",38.6358,-90.2451
+"Sacramento,CA",38.5667,-121.4683
+"Orlando,FL",28.4772,-81.3369
+"San Jose,CA",37.3019,-121.8486
+"Cleveland,OH",41.4767,-81.6804
+"Pittsburgh,PA",40.4396,-79.9762
+"Austin,TX",30.3004,-97.7522
+"Cincinnati,OH",39.1413,-84.5061
+"Kansas City,MO",39.1239,-94.5541
+"Indianapolis,IN",39.7771,-86.1458
+"Columbus,OH",39.9862,-82.985
+"Charlotte,NC",35.208,-80.8304
+"Virginia Beach,VA",36.7335,-76.0435
+"Bronx,NY",40.8501,-73.8662
+"Milwaukee,WI",43.0642,-87.9673
+"Providence,RI",41.823,-71.4187
+"Jacksonville,FL",30.3322,-81.6749
+"Salt Lake City,UT",40.7777,-111.9306
+"Nashville,TN",36.1715,-86.7843
+"Richmond,VA",37.5295,-77.4756
+"Memphis,TN",35.1046,-89.9773
+"Raleigh,NC",35.8325,-78.6435
+"New Orleans,LA",30.0687,-89.9288
+"Louisville,KY",38.1663,-85.6485
+"Oklahoma City,OK",35.4676,-97.5136
+"Bridgeport,CT",41.1918,-73.1953
+"Buffalo,NY",42.9016,-78.8487
+"Fort Worth,TX",32.7811,-97.3473
+"Hartford,CT",41.7661,-72.6834
+"Tucson,AZ",32.1545,-110.8782
+"Omaha,NE",41.2627,-96.0522
+"El Paso,TX",31.8479,-106.4309
+"Honolulu,HI",21.3294,-157.846
+"Albuquerque,NM",35.1053,-106.6464
+"Birmingham,AL",33.5277,-86.7987
+"Dayton,OH",39.7797,-84.1998
+"Rochester,NY",43.168,-77.6162
+"Fresno,CA",36.7831,-119.7941
+"Allentown,PA",40.5961,-75.4756
+"Tulsa,OK",36.1284,-95.9042
+"Cape Coral,FL",26.6446,-81.9956
+"Concord,CA",37.9722,-122.0016
+"Colorado Springs,CO",38.8674,-104.7606
+"Charleston,SC",32.8153,-79.9628
+"Grand Rapids,MI",42.962,-85.6562
+"Albany,NY",42.6664,-73.7987
+"Knoxville,TN",35.9692,-83.9496
+"Bakersfield,CA",35.3529,-119.0359
+"Ogden,UT",41.2278,-111.9682
+"Baton Rouge,LA",30.4418,-91.131
+"Akron,OH",41.0798,-81.5219
+"Columbia,SC",34.0376,-80.9037
+"Mesa,AZ",33.4017,-111.718
+"Palm Bay,FL",27.955,-80.6627
+"Provo,UT",40.2457,-111.6457
+"Murrieta,CA",33.572,-117.1909
+"Greenville,SC",34.8353,-82.3647
+"Wichita,KS",37.6896,-97.3442
+"Toledo,OH",41.6639,-83.5822
+"Staten Island,NY",40.5834,-74.1496
+"Des Moines,IA",41.5725,-93.6105
+"Long Beach,CA",33.7981,-118.1675
+"Port St. Lucie,FL",27.2796,-80.3883
+"Denton,TX",33.2176,-97.1419
+"Madison,WI",43.0826,-89.3931
+"Reno,NV",39.5497,-119.8483
+"Harrisburg,PA",40.2752,-76.8843
+"Little Rock,AR",34.7256,-92.3576
+"Oakland,CA",37.7903,-122.2165
+"Durham,NC",35.9794,-78.9031
+"Winston-Salem,NC",36.1029,-80.2611
+"Indio,CA",33.7346,-116.2346
+"Chattanooga,TN",35.0657,-85.2488
+"Spokane,WA",47.6671,-117.433
+"Syracuse,NY",43.0409,-76.1438
+"Lancaster,PA",40.0421,-76.3012
+"Arlington,TX",32.6998,-97.125
+"Stockton,CA",37.9765,-121.3109
+"Augusta,GA",33.3645,-82.0708
+"Boise,ID",43.6007,-116.2312
+"Oxnard,CA",34.1963,-119.1815
+"Modesto,CA",37.6374,-121.0028
+"Aurora,CO",39.7087,-104.7273
+"Fayetteville,AR",36.0713,-94.166
+"Anaheim,CA",33.839,-117.8572
+"Pensacola,FL",30.4427,-87.1886
+"Victorville,CA",34.5277,-117.3536
+"Lancaster,CA",34.6935,-118.1753
+"Greensboro,NC",36.0956,-79.8269
+"Corpus Christi,TX",27.726,-97.3755
+"Fort Wayne,IN",41.0886,-85.1437
+"Santa Ana,CA",33.7366,-117.8819
+"Flint,MI",43.0235,-83.6922
+"Fayetteville,NC",35.0846,-78.9776
+"Jackson,MS",32.3163,-90.2124
+"Santa Rosa,CA",38.4458,-122.7067
+"Lansing,MI",42.7142,-84.5601
+"Henderson,NV",36.0133,-115.038
+"Huntsville,AL",34.6988,-86.6412
+"Mobile,AL",30.6783,-88.1162
+"Fort Collins,CO",40.5478,-105.0656
+"Asheville,NC",35.5704,-82.5536
+"Santa Clarita,CA",34.4175,-118.4964
+"St. Paul,MN",44.9477,-93.104
+"Antioch,CA",37.9789,-121.7958
+"Lakeland,FL",28.0556,-81.9545
+"Trenton,NJ",40.2236,-74.7641
+"Lincoln,NE",40.809,-96.6788
+"Springfield,MO",37.1943,-93.2916
+"Anchorage,AK",61.1508,-149.1091
+"Plano,TX",33.0502,-96.7487
+"Irvine,CA",33.6772,-117.7738
+"Davenport,IA",41.5563,-90.6052
+"Rockford,IL",42.2597,-89.0641
+"Newark,NJ",40.7245,-74.1725
+"South Bend,IN",41.6767,-86.2696
+"Shreveport,LA",32.4656,-93.7956
+"Savannah,GA",32.0281,-81.1784
+"Myrtle Beach,SC",33.7096,-78.8843
+"Chula Vista,CA",32.6281,-117.0145
+"Eugene,OR",44.0563,-123.1173
+"Canton,OH",40.8075,-81.3677
+"Lubbock,TX",33.5659,-101.8878
+"Reading,PA",40.34,-75.9267
+"Winter Haven,FL",28.0118,-81.7017
+"Salem,OR",44.9231,-123.0246
+"St. Petersburg,FL",27.7931,-82.6652
+"Lafayette,LA",30.2084,-92.0323
+"Laredo,TX",27.5629,-99.4875
+"Jersey City,NJ",40.7161,-74.0682
+"Columbus,GA",32.51,-84.8771
+"Chandler,AZ",33.2826,-111.8516
+"McKinney,TX",33.2015,-96.6669
+"Scottsdale,AZ",33.6872,-111.8651
+"Killeen,TX",31.0754,-97.7296
+"Tallahassee,FL",30.4551,-84.2526
+"Peoria,IL",40.752,-89.6153
+"Wilmington,NC",34.21,-77.8866
+"Montgomery,AL",32.3473,-86.2666
+"Gilbert,AZ",33.3101,-111.7463
+"Glendale,AZ",33.5791,-112.2311
+"North Las Vegas,NV",36.288,-115.0901
+"Chesapeake,VA",36.6778,-76.3024
+"Norfolk,VA",36.8945,-76.259
+"Fremont,CA",37.5265,-121.9852
+"Kennewick,WA",46.1978,-119.1732
+"Garland,TX",32.91,-96.6305
+"Irving,TX",32.8584,-96.9702
+"Visalia,CA",36.3276,-119.3269
+"Atlantic City,NJ",39.3797,-74.4527
+"Arlington,VA",38.8786,-77.1011
+"Hialeah,FL",25.8696,-80.3046
+"York,PA",39.9651,-76.7315
+"Evansville,IN",37.9881,-87.5341
+"Avondale,AZ",33.3858,-112.3236
+"Brownsville,TX",25.998,-97.4565
+"Gulfport,MS",30.4271,-89.0703
+"Appleton,WI",44.2779,-88.3891
+"Hickory,NC",35.7425,-81.323
+"Tacoma,WA",47.2431,-122.4531
+"San Bernardino,CA",34.1417,-117.2946
+"Kalamazoo,MI",42.2749,-85.5882
+"Roanoke,VA",37.2785,-79.958
+"Fontana,CA",34.0968,-117.4599
+"Moreno Valley,CA",33.9244,-117.2045
+"North Port,FL",27.0577,-82.1975
+"Green Bay,WI",44.515,-87.9896
+"Amarillo,TX",35.1988,-101.8311
+"Portland,ME",43.6773,-70.2715
+"Santa Barbara,CA",34.4285,-119.7202
+"Gainesville,FL",29.6804,-82.3458
+"Olympia,WA",47.0417,-122.8959
+"Yonkers,NY",40.9466,-73.8674
+"Norwich,CT",41.5495,-72.0882
+"Glendale,CA",34.1818,-118.2468
+"Huntington Beach,CA",33.696,-118.0025
+"Deltona,FL",28.905,-81.2137
+"Aurora,IL",41.7637,-88.2901
+"Tempe,AZ",33.3881,-111.9318
+"Overland Park,KS",38.887,-94.687
+"Grand Prairie,TX",32.6872,-97.0209
+"Waco,TX",31.5598,-97.1881
+"Salinas,CA",36.6884,-121.6317
+"Waterbury,CT",41.5583,-73.0361
+"Clarksville,TN",36.5695,-87.342
+"Cedar Rapids,IA",41.9665,-91.6782
+"Sioux Falls,SD",43.5397,-96.732
+"Ontario,CA",34.0393,-117.6064
+"Vancouver,WA",45.6366,-122.5967
+"Nampa,ID",43.5845,-116.5631
+"Spartanburg,SC",34.9437,-81.9257
+"Gastonia,NC",35.2494,-81.1853
+"Fort Lauderdale,FL",26.1412,-80.1464
+"High Point,NC",35.9907,-79.9938
+"Newport News,VA",37.1051,-76.5185
+"Hemet,CA",33.7341,-116.9969
+"Santa Cruz,CA",36.9789,-122.0346
+"Danbury,CT",41.4016,-73.471
+"Peoria,AZ",33.7844,-112.2989
+"Oceanside,CA",33.2247,-117.3083
+"Elk Grove,CA",38.416,-121.3842
+"Vallejo,CA",38.1133,-122.2358
+"Garden Grove,CA",33.7787,-117.9601
+"Medford,OR",42.3372,-122.8537
+"Cary,NC",35.782,-78.8191
+"Marysville,WA",48.0809,-122.1561
+"Ocala,FL",29.178,-82.1511
+"Fredericksburg,VA",38.2992,-77.4872
+"Gainesville,GA",34.2903,-83.8301
+"Manchester,NH",42.9848,-71.4447
+"Alexandria,VA",38.8185,-77.0861
+"Hayward,CA",37.6328,-122.0772
+"Springfield,IL",39.771,-89.6538
+"Lakewood,CO",39.6977,-105.1168
+"Lafayette,IN",40.399,-86.8594
+"Frederick,MD",39.4336,-77.4141
+"Lake Charles,LA",30.2012,-93.2122
+"Odessa,TX",31.8831,-102.3406
+"Tuscaloosa,AL",33.2348,-87.5267
+"Palmdale,CA",34.5944,-118.1057
+"Hollywood,FL",26.0294,-80.1679
+"Midland,TX",32.0249,-102.1137
+"Leesburg,FL",28.7657,-81.8996
+"Port Arthur,TX",29.8554,-93.9264
+"Macon,GA",32.8065,-83.6974
+"Kansas City,KS",39.1234,-94.7443
+"Sunnyvale,CA",37.3836,-122.0256
+"Pomona,CA",34.0585,-117.7626
+"Escondido,CA",33.1347,-117.0722
+"Pasadena,TX",29.6583,-95.1499
+"Fairfield,CA",38.2592,-122.0324
+"Elkhart,IN",41.6916,-85.9628
+"Topeka,KS",39.0346,-95.6955
+"Joliet,IL",41.5189,-88.1499
+"Beaumont,TX",30.0849,-94.1451
+"Paterson,NJ",40.9147,-74.1624
+"Merced,CA",37.3057,-120.4778
+"Pueblo,CO",38.2705,-104.6112
+"Torrance,CA",33.8346,-118.3417
+"Yuma,AZ",32.5992,-114.5488
+"Metairie,LA",29.9977,-90.178
+"Surprise,AZ",33.68,-112.4524
+"Columbia,MO",38.9478,-92.3256
+"Athens,GA",33.9508,-83.3689
+"Roseville,CA",38.7703,-121.3196
+"Thornton,CO",39.9197,-104.9438
+"Miramar,FL",25.9773,-80.3351
+"Pasadena,CA",34.1597,-118.139
+"Mesquite,TX",32.7623,-96.5889
+"Olathe,KS",38.8832,-94.8198
+"Santa Maria,CA",34.9334,-120.4432
+"Houma,LA",29.5799,-90.7058
+"Carrollton,TX",32.989,-96.8999
+"Grand Junction,CO",39.0876,-108.5673
+"Charleston,WV",38.3484,-81.6323
+"Orange,CA",33.8038,-117.8218
+"Fullerton,CA",33.8841,-117.9279
+"Greeley,CO",40.4151,-104.7706
+"Las Cruces,NM",32.3265,-106.7892
+"Panama City,FL",30.1995,-85.6004
+"West Valley City,UT",40.6889,-112.0115
+"Hampton,VA",37.0551,-76.363
+"Warren,MI",42.4934,-83.027
+"Round Rock,TX",30.5254,-97.666
+"Yakima,WA",46.5923,-120.5496
+"Kent,WA",47.3887,-122.2129
+"Burlington,NC",36.0758,-79.4686
+"Bellingham,WA",48.7543,-122.4687
+"Santa Clara,CA",37.3645,-121.968
+"Racine,WI",42.7274,-87.8135
+"Greenville,NC",35.5956,-77.3768
+"Stamford,CT",41.1035,-73.5583
+"Johnson City,TN",36.3406,-82.3803
+"Lynchburg,VA",37.4003,-79.1909
+"Fort Smith,AR",35.3493,-94.3695
+"Kenosha,WI",42.5864,-87.8765
+"Norman,OK",35.2335,-97.3471
+"Boulder,CO",40.0249,-105.2523
+"Abilene,TX",32.4543,-99.7384
+"Pearland,TX",29.5585,-95.3215
+"Redding,CA",40.5698,-122.365
+"Arvada,CO",39.8321,-105.1511
+"East Los Angeles,CA",34.0326,-118.1691
+"Billings,MT",45.7891,-108.5524
+"Yuba City,CA",39.1357,-121.6381
+"Kingsport,TN",36.5224,-82.5453
+"Gilroy,CA",37.0047,-121.5855
+"Saginaw,MI",43.4199,-83.9501
+"Chico,CA",39.7575,-121.8152
+"Dover,DE",39.161,-75.5203
+"Clearwater,FL",27.9789,-82.7622
+"Coeur d'Alene,ID",47.7041,-116.7935
+"Independence,MO",39.0871,-94.3501
+"West Jordan,UT",40.6024,-112.0008
+"El Monte,CA",34.0739,-118.0291
+"North Charleston,SC",32.9066,-80.0722
+"St. Cloud,MN",45.5339,-94.1718
+"Temecula,CA",33.4928,-117.1315
+"Clovis,CA",36.8278,-119.6831
+"Meridian,ID",43.6112,-116.3968
+"Westminster,CO",39.8837,-105.0624
+"Monroe,LA",32.5183,-92.0774
+"Pompano Beach,FL",26.2428,-80.1312
+"West Palm Beach,FL",26.7468,-80.1316
+"Everett,WA",47.9525,-122.1669
+"El Centro,CA",32.7867,-115.5586
+"Santa Fe,NM",35.6619,-105.9819
+"Downey,CA",33.9379,-118.1312
+"Spring Hill,FL",28.4797,-82.53
+"Lowell,MA",42.6389,-71.3217
+"Centennial,CO",39.5926,-104.8674
+"Elgin,IL",42.0385,-88.3229
+"Richmond,CA",37.9477,-122.339
+"Miami Gardens,FL",25.9433,-80.2426
+"Bend,OR",44.0562,-121.3087
+"Burlington,VT",44.4877,-73.2314
+"Jurupa Valley,CA",34.001,-117.4705
+"Gresham,OR",45.5023,-122.4413
+"Hillsboro,OR",45.5272,-122.9361
+"Pottstown,PA",40.2507,-75.6444
+"Inglewood,CA",33.9566,-118.3444
+"League City,TX",29.4873,-95.1087
+"Eau Claire,WI",44.8199,-91.4949
+"Turlock,CA",37.5053,-120.8588
+"Temple,TX",31.1076,-97.3894
+"Sioux City,IA",42.4959,-96.3901
+"Salisbury,MD",38.3756,-75.5867
+"Davie,FL",26.0789,-80.287
+"Daly City,CA",37.6862,-122.4685
+"Allen,TX",33.1088,-96.6735
+"West Covina,CA",34.0555,-117.9112
+"Sparks,NV",39.5729,-119.7157
+"Wichita Falls,TX",33.9072,-98.5291
+"San Mateo,CA",37.5521,-122.3122
+"Columbia,MD",39.2004,-76.859
+"Norwalk,CA",33.9069,-118.0829
+"Rialto,CA",34.1174,-117.3894
+"El Cajon,CA",32.8017,-116.9605
+"Burbank,CA",34.1879,-118.3235
+"Longmont,CO",40.1686,-105.1005
+"Renton,WA",47.4784,-122.1919
+"Vista,CA",33.1896,-117.2386
+"Logan,UT",41.74,-111.8419
+"Vacaville,CA",38.359,-121.968
+"Edinburg,TX",26.3197,-98.1596
+"San Angelo,TX",31.4424,-100.4506
+"La Crosse,WI",43.824,-91.2268
+"Idaho Falls,ID",43.4872,-112.0362
+"Charlottesville,VA",38.0375,-78.4855
+"Longview,TX",32.5193,-94.7621
+"Lee's Summit,MO",38.9172,-94.3816
+"Beaverton,OR",45.4779,-122.8168
+"Lawrence,KS",38.9597,-95.2641
+"Bismarck,ND",46.8144,-100.7694
+"San Marcos,CA",33.135,-117.1744
+"Sandy,UT",40.571,-111.8505
+"Federal Way,WA",47.3091,-122.3358
+"Mandeville,LA",30.3751,-90.0904
+"Hesperia,CA",34.3975,-117.3147
+"Brockton,MA",42.0821,-71.0242
+"Compton,CA",33.893,-118.2275
+"Riverview,FL",27.8227,-82.3023
+"Fishers,IN",39.9589,-85.9661
+"Sunrise,FL",26.1547,-80.2997
+"Bowling Green,KY",36.9719,-86.4373
+"Roswell,GA",34.0391,-84.3513
+"Menifee,CA",33.6909,-117.1849
+"Plantation,FL",26.126,-80.2617
+"Portsmouth,VA",36.8468,-76.354
+"Chino,CA",33.9836,-117.6654
+"Lynn,MA",42.4779,-70.9663
+"Edmond,OK",35.6689,-97.4159
+"Hanford,CA",36.3274,-119.6549
+"Dearborn,MI",42.3127,-83.2129
+"South Gate,CA",33.9448,-118.1926
+"Vineland,NJ",39.4653,-74.9981
+"Florence,SC",34.1781,-79.7877
+"Slidell,LA",30.2881,-89.7826
+"Lawton,OK",34.6176,-98.4203
+"Kirkland,WA",47.6974,-122.2054
+"Missoula,MT",46.875,-114.0214
+"Rapid City,SD",44.0716,-103.2204
+"Terre Haute,IN",39.4654,-87.3763
+"Suffolk,VA",36.6953,-76.6398
+"Carson,CA",33.8374,-118.2559
+"Conroe,TX",30.3239,-95.4825
+"Livermore,CA",37.6862,-121.7608
+"Santa Monica,CA",34.0232,-118.4813
+"Fall River,MA",41.7137,-71.1014
+"Albany,GA",31.5776,-84.1762
+"Miami Beach,FL",25.8171,-80.1396
+"San Leandro,CA",37.7071,-122.1601
+"O'Fallon,MO",38.785,-90.7175
+"Muncie,IN",40.1989,-85.395
+"Citrus Heights,CA",38.6948,-121.288
+"State College,PA",40.7909,-77.8568
+"Jackson,MI",42.2431,-84.4037
+"Fort Myers,FL",26.6195,-81.8303
+"Goodyear,AZ",33.2613,-112.3622
+"Waukegan,IL",42.3697,-87.8716
+"Hawthorne,CA",33.9146,-118.3476
+"Redwood City,CA",37.5026,-122.2252
+"Hoover,AL",33.3754,-86.8064
+"Napa,CA",38.2976,-122.3011
+"Whittier,CA",33.9678,-118.0188
+"Largo,FL",27.9088,-82.7711
+"Bloomington,MN",44.8306,-93.3151
+"Johns Creek,GA",34.0333,-84.2027
+"Newport Beach,CA",33.6151,-117.8669
+"Mission,TX",26.2041,-98.3251
+"Troy,MI",42.5818,-83.1457
+"Madera,CA",36.9631,-120.0782
+"Joplin,MO",37.0758,-94.5018
+"Chino Hills,CA",33.9508,-117.7253
+"Alhambra,CA",34.084,-118.1355
+"Franklin,TN",35.9216,-86.8525
+"Melbourne,FL",28.1085,-80.6627
+"Springfield,OH",39.9297,-83.7957
+"St. Augustine,FL",29.8977,-81.31
+"Flagstaff,AZ",35.1872,-111.6195
+"Pleasanton,CA",37.6663,-121.8805
+"Silver Spring,MD",39.0028,-77.0207
+"Auburn,WA",47.3039,-122.2108
+"Springdale,AR",36.1899,-94.1574
+"Hattiesburg,MS",31.3074,-89.317
+"Alexandria,LA",31.2923,-92.4702
+"Florence,AL",34.8303,-87.6654
+"Valdosta,GA",30.8502,-83.2788
+"Plymouth,MN",45.0225,-93.4618
+"Buckeye,AZ",33.4314,-112.6429
+"Georgetown,TX",30.6668,-97.6953
+"Cheyenne,WY",41.1351,-104.79
+"The Villages,FL",28.9021,-81.9888
+"Kokomo,IN",40.464,-86.1277
+"Tustin,CA",33.7309,-117.8106
+"Lakewood,CA",33.8471,-118.1221
+"St. Joseph,MO",39.7599,-94.821
+"Pharr,TX",26.1685,-98.1904
+"Alton,IL",38.9034,-90.1523
+"Loveland,CO",40.4166,-105.0623
+"Boynton Beach,FL",26.5281,-80.0811
+"New Rochelle,NY",40.9305,-73.7836
+"Anderson,SC",34.5211,-82.6479
+"Jonesboro,AR",35.8212,-90.6791
+"Parma,OH",41.3843,-81.7286
+"Layton,UT",41.0769,-111.9621
+"Elizabethtown,KY",37.703,-85.877
+"Watsonville,CA",36.9206,-121.7706
+"Porterville,CA",36.0644,-119.0338
+"Baytown,TX",29.7586,-94.9669
+"Davis,CA",38.5552,-121.7365
+"Camarillo,CA",34.223,-119.0322
+"Battle Creek,MI",42.2986,-85.2296
+"Bellflower,CA",33.888,-118.1271
+"San Marcos,TX",29.8736,-97.9381
+"Lake Jackson,TX",29.0516,-95.4522
+"Wyoming,MI",42.8909,-85.7066
+"Oshkosh,WI",44.0228,-88.5619
+"Missouri City,TX",29.563,-95.5365
+"Pasco,WA",46.2506,-119.1304
+"Rancho Cordova,CA",38.574,-121.2523
+"Gary,IN",41.5906,-87.3472
+"Lodi,CA",38.1218,-121.2932
+"Winchester,VA",39.1735,-78.1746
+"Union City,CA",37.603,-122.0187
+"Owensboro,KY",37.7574,-87.1173
+"Wausau,WI",44.962,-89.6459
+"Camden,NJ",39.9362,-75.1073
+"Anniston,AL",33.6712,-85.8136
+"Apple Valley,CA",34.5328,-117.2104
+"Mansfield,OH",40.7656,-82.5275
+"Southfield,MI",42.4765,-83.2605
+"Pittsburg,CA",38.0182,-121.8964
+"New Britain,CT",41.6758,-72.7862
+"Morgantown,WV",39.638,-79.9468
+"Mansfield,TX",32.569,-97.1211
+"Hammond,LA",30.5061,-90.4563
+"Harrisonburg,VA",38.4361,-78.8735
+"Wenatchee,WA",47.4356,-120.3283
+"Waukesha,WI",43.0087,-88.2464
+"Pawtucket,RI",41.8744,-71.3743
+"Lauderhill,FL",26.1605,-80.2242
+"Sumter,SC",33.9392,-80.393
+"Redlands,CA",34.0511,-117.1712
+"Daphne,AL",30.6286,-87.8866
+"Sherman,TX",33.6274,-96.6218
+"Broomfield,CO",39.9541,-105.0527
+"Bristol,TN",36.5572,-82.2154
+"Wilmington,DE",39.7415,-75.5413
+"Walnut Creek,CA",37.9024,-122.0398
+"Poinciana,FL",28.1217,-81.482
+"Lynwood,CA",33.924,-118.2017
+"Glen Burnie,MD",39.1559,-76.6072
+"Homestead,FL",25.4665,-80.4472
+"Delray Beach,FL",26.455,-80.0905
+"Sheboygan,WI",43.7403,-87.7316
+"Lake Elsinore,CA",33.6847,-117.3344
+"Daytona Beach,FL",29.1994,-81.0982
+"Los Lunas,NM",34.8115,-106.7803
+"Lima,OH",40.741,-84.1121
+"Rocklin,CA",38.8075,-121.2488
+"Bossier City,LA",32.5227,-93.6666
+"Rockville,MD",39.0834,-77.1552
+"Victoria,TX",28.8285,-96.985
+"West Des Moines,IA",41.5522,-93.7805
+"Yorba Linda,CA",33.889,-117.7714
+"Casper,WY",42.842,-106.3207
+"Ankeny,IA",41.7285,-93.6033
+"Mount Vernon,NY",40.9136,-73.8291
+"Lakeville,MN",44.6774,-93.252
+"Longview,WA",46.1461,-122.9629
+"Redondo Beach,CA",33.8574,-118.3766
+"Tamarac,FL",26.2056,-80.2542
+"Eagan,MN",44.8169,-93.1638
+"Kenner,LA",30.0109,-90.2549
+"Bay City,MI",43.5903,-83.8886
+"North Little Rock,AR",34.7808,-92.2371
+"Jupiter,FL",26.9199,-80.1128
+"Weirton,WV",40.406,-80.5671
+"Tulare,CA",36.1996,-119.34
+"Wellington,FL",26.6461,-80.2699
+"Palo Alto,CA",37.3913,-122.1468
+"Schenectady,NY",42.8025,-73.9276
+"Great Falls,MT",47.5022,-111.2995
+"Port Orange,FL",29.1084,-81.0137
+"Grand Forks,ND",47.9218,-97.0886
+"Carmichael,CA",38.6337,-121.323
+"Beloit,WI",42.523,-89.0184
+"Brentwood,NY",40.7839,-73.2522
+"Fairbanks,AK",64.8353,-147.6534
+"Springfield,OR",44.0538,-122.981
+"Johnstown,PA",40.3258,-78.9193
+"Dundalk,MD",39.2703,-76.4942
+"Coon Rapids,MN",45.1755,-93.3095
+"Elmira,NY",42.0938,-76.8097
+"Mankato,MN",44.1712,-93.9773
+"Encinitas,CA",33.049,-117.2613
+"Port Charlotte,FL",26.9918,-82.114
+"Sebring,FL",27.477,-81.453
+"Council Bluffs,IA",41.2369,-95.8517
+"Hamilton,OH",39.3938,-84.5653
+"Moore,OK",35.3293,-97.4758
+"Pico Rivera,CA",33.9902,-118.0888
+"Casa Grande,AZ",32.9068,-111.7624
+"Montebello,CA",34.0155,-118.1108
+"Millcreek,UT",40.6892,-111.8291
+"Burnsville,MN",44.7648,-93.2795
+"Morristown,TN",36.2046,-83.3006
+"Lakewood,WA",47.1628,-122.5299
+"Spring,TX",30.0613,-95.383
+"Marietta,GA",33.9533,-84.5422
+"Commerce City,CO",39.8642,-104.8434
+"West Allis,WI",43.0068,-88.0296
+"Bangor,ME",44.8322,-68.7906
+"Greenwood,IN",39.6019,-86.1073
+"Bartlett,TN",35.2337,-89.8195
+"Bradenton,FL",27.49,-82.5739
+"Gardena,CA",33.8944,-118.3073
+"Apex,NC",35.7239,-78.8728
+"Royal Oak,MI",42.5084,-83.1539
+"Benton Harbor,MI",42.1159,-86.4488
+"St. Clair Shores,MI",42.4921,-82.8957
+"Des Plaines,IL",42.0345,-87.9009
+"Midland,MI",43.6241,-84.2319
+"Carson City,NV",39.1512,-119.7474
+"Middletown,NY",41.4459,-74.4236
+"Caldwell,ID",43.6453,-116.6591
+"Richland,WA",46.2824,-119.2938
+"Hendersonville,TN",36.3063,-86.5998
+"Huntersville,NC",35.4058,-80.8727
+"Jefferson City,MO",38.5676,-92.1759
+"Beckley,WV",37.7878,-81.1841
+"Titusville,FL",28.5727,-80.8193
+"Cartersville,GA",34.1639,-84.8007
+"Weymouth,MA",42.1984,-70.9466
+"Parker,CO",39.5084,-104.7753
+"Palm Beach Gardens,FL",26.8466,-80.1679
+"Bozeman,MT",45.6832,-111.0552
+"East Stroudsburg,PA",41.0023,-75.1779
+"Huntington Park,CA",33.98,-118.2167
+"Taunton,MA",41.9036,-71.0943
+"Midwest City,OK",35.463,-97.3709
+"Euless,TX",32.8508,-97.0799
+"Lake Havasu City,AZ",34.5006,-114.3113
+"Smyrna,GA",33.8633,-84.5168
+"Cape Girardeau,MO",37.3108,-89.5597
+"Kendale Lakes,FL",25.7081,-80.4078
+"Grants Pass,OR",42.4333,-123.3317
+"Blue Springs,MO",39.0124,-94.2721
+"Southaven,MS",34.9514,-89.9787
+"Pittsfield,MA",42.4517,-73.2605
+"New Brunswick,NJ",40.487,-74.445
+"Highland,CA",34.1113,-117.1654
+"Fountain Valley,CA",33.7105,-117.9514
+"Fond du Lac,WI",43.7718,-88.4396
+"Hacienda Heights,CA",33.997,-117.9728
+"Ithaca,NY",42.4442,-76.5032
+"Cathedral City,CA",33.8363,-116.4642
+"Delano,CA",35.767,-119.2637
+"Bentonville,AR",36.3546,-94.2306
+"Kettering,OH",39.6957,-84.1495
+"Colton,CA",34.0538,-117.3254
+"West Haven,CT",41.2739,-72.9672
+"St. Cloud,FL",28.2294,-81.2829
+"Aloha,OR",45.492,-122.8726
+"Rosemead,CA",34.0689,-118.0823
+"Elyria,OH",41.3761,-82.1063
+"Pinellas Park,FL",27.8589,-82.7078
+"Apopka,FL",28.7014,-81.5304
+"Grand Island,NE",40.9214,-98.3584
+"Revere,MA",42.4192,-71.0036
+"DeSoto,TX",32.5992,-96.8633
+"Helena,MT",46.5965,-112.0202
+"Lacey,WA",47.046,-122.7934
+"Summerville,SC",33.0015,-80.1799
+"Maricopa,AZ",33.0404,-112.0006
+"Lompoc,CA",34.6618,-120.4714
+"Kentwood,MI",42.8852,-85.5925
+"Sierra Vista,AZ",31.563,-110.3153
+"Madison,AL",34.7114,-86.7626
+"Smyrna,TN",35.9722,-86.5253
+"Glendora,CA",34.1449,-117.8468
+"Burien,WA",47.4762,-122.3394
+"Farmington,NM",36.7555,-108.1823
+"Beaumont,CA",33.9076,-116.9766
+"Collierville,TN",35.0471,-89.6988
+"Florissant,MO",38.7996,-90.3269
+"Galveston,TX",29.2487,-94.891
+"Bullhead City,AZ",35.1205,-114.546
+"Stillwater,OK",36.1316,-97.074
+"Azusa,CA",34.1386,-117.9124
+"Cerritos,CA",33.8677,-118.0686
+"Enid,OK",36.4061,-97.8701
+"Oroville,CA",39.4999,-121.5634
+"Wilson,NC",35.7312,-77.9284
+"Lawrence,IN",39.8674,-85.9905
+"Portage,MI",42.2,-85.5906
+"Dunwoody,GA",33.9418,-84.3122
+"Poway,CA",32.9871,-117.0201
+"Troy,NY",42.7354,-73.6751
+"Newark,CA",37.5204,-122.0312
+"Bedford,TX",32.8464,-97.135
+"Marana,AZ",32.4355,-111.1558
+"Roswell,NM",33.373,-104.5294
+"Ceres,CA",37.5953,-120.9625
+"St. Louis Park,MN",44.9488,-93.3649
+"Draper,UT",40.4957,-111.8605
+"Palm Springs,CA",33.8017,-116.5382
+"Findlay,OH",41.0467,-83.6379
+"Antelope,CA",38.7153,-121.361
+"Lincoln,CA",38.8759,-121.2916
+"La Mirada,CA",33.9025,-118.0093
+"Farmers Branch,TX",32.9272,-96.8804
+"Jeffersonville,IN",38.3376,-85.7026
+"Wauwatosa,WI",43.0615,-88.0347
+"Cedar Hill,TX",32.581,-96.9591
+"Carrollton,GA",33.5817,-85.0837
+"Rancho Santa Margarita,CA",33.6318,-117.5989
+"Chesterfield,MO",38.6588,-90.5804
+"Covina,CA",34.0903,-117.8817
+"Danville,IL",40.1423,-87.6114
+"Spring Hill,TN",35.7438,-86.9116
+"Salina,KS",38.8137,-97.6143
+"Euclid,OH",41.5904,-81.5188
+"Kingman,AZ",35.217,-114.0105
+"Everett,MA",42.4064,-71.0545
+"Weatherford,TX",32.7536,-97.7723
+"Biloxi,MS",30.4422,-88.9512
+"Leavenworth,KS",39.3239,-94.924
+"Fort Pierce,FL",27.4256,-80.3431
+"Potomac,MD",39.0141,-77.1943
+"Danville,VA",36.5831,-79.4087
+"Rockwall,TX",32.9169,-96.4377
+"Wake Forest,NC",35.9629,-78.5141
+"Tupelo,MS",34.2692,-88.7318
+"Pine Bluff,AR",34.2116,-92.0178
+"Oakland Park,FL",26.178,-80.1528
+"Hilo,HI",19.6886,-155.0864
+"Lufkin,TX",31.3217,-94.7277
+"Manitowoc,WI",44.0991,-87.6811
+"Selma,CA",36.5715,-119.6143
+"Danville,CA",37.8121,-121.9698
+"Quincy,IL",39.9335,-91.3799
+"Lancaster,OH",39.7249,-82.6049
+"Riverton,UT",40.5177,-111.9635
+"Urbandale,IA",41.639,-93.7813
+"Prescott,AZ",34.585,-112.4475
+"Eureka,CA",40.7942,-124.1568
+"Hackensack,NJ",40.889,-74.0461
+"Del Rio,TX",29.3708,-100.88
+"Desert Hot Springs,CA",33.9551,-116.543
+"Ormond Beach,FL",29.296,-81.1003
+"Goose Creek,SC",32.9925,-80.0054
+"Klamath Falls,OR",42.2191,-121.7754
+"North Miami Beach,FL",25.9302,-80.166
+"Centralia,WA",46.7226,-122.9696
+"Gallatin,TN",36.3782,-86.4696
+"Apache Junction,AZ",33.3985,-111.5351
+"Fairfield,OH",39.3301,-84.5409
+"Hutchinson,KS",38.0671,-97.9081
+"Greenwood,SC",34.1945,-82.1542
+"Beverly,MA",42.5681,-70.8627
+"Clovis,NM",34.4376,-103.1923
+"Hobbs,NM",32.7282,-103.16
+"McMinnville,OR",45.211,-123.1918
+"Schertz,TX",29.5649,-98.2537
+"Bell Gardens,CA",33.9663,-118.155
+"La Quinta,CA",33.6536,-116.2785
+"Zanesville,OH",39.9565,-82.0132
+"Newnan,GA",33.3766,-84.7761
+"Shakopee,MN",44.7744,-93.4764
+"Brighton,CO",39.9716,-104.7964
+"Mableton,GA",33.8132,-84.5656
+"Delaware,OH",40.2866,-83.0747
+"Westerville,OH",40.1241,-82.9209
+"Los Banos,CA",37.063,-120.8406
+"Richmond,KY",37.7306,-84.2926
+"Spanish Fork,UT",40.1101,-111.6406
+"Belleville,IL",38.5165,-89.99
+"Bluefield,WV",37.2608,-81.2143
+"Woodlawn,MD",39.3054,-76.7489
+"Clarksburg,WV",39.2863,-80.323
+"Friendswood,TX",29.5111,-95.1979
+"Montclair,CA",34.0714,-117.698
+"San Gabriel,CA",34.0948,-118.099
+"Hallandale Beach,FL",25.9854,-80.1423
+"Calexico,CA",32.6849,-115.4944
+"Muskogee,OK",35.7431,-95.3568
+"Plant City,FL",28.014,-82.1201
+"Keizer,OR",45.0029,-123.0241
+"Roy,UT",41.1715,-112.0485
+"Essex,MD",39.3024,-76.4457
+"Bartlesville,OK",36.7357,-95.9453
+"Asheboro,NC",35.7158,-79.8129
+"Lynnwood,WA",47.8284,-122.3033
+"Clinton,MD",38.7499,-76.9063
+"Moses Lake,WA",47.128,-119.2761
+"Sun City,AZ",33.6165,-112.2819
+"Northglenn,CO",39.9108,-104.9783
+"Hurst,TX",32.8353,-97.1808
+"Clermont,FL",28.5402,-81.7259
+"Eagle Mountain,UT",40.3137,-112.0114
+"Oxford,MS",34.3627,-89.5336
+"Rosenberg,TX",29.546,-95.822
+"Martinez,CA",37.9985,-122.116
+"Stanton,CA",33.8002,-117.9935
+"Albertville,AL",34.2634,-86.2107
+"London,KY",37.1175,-84.0767
+"Navarre,FL",30.4174,-86.8907
+"Oregon City,OR",45.3415,-122.5927
+"Parkland,WA",47.1417,-122.4376
+"Pahrump,NV",36.2411,-116.0176
+"Greenfield,WI",42.9619,-88.0051
+"Braintree,MA",42.2039,-71.0022
+"Rock Island,IL",41.4699,-90.5827
+"West Fargo,ND",46.8573,-96.9057
+"Georgetown,KY",38.2249,-84.5482
+"Portage,IN",41.5866,-87.1792
+"Owasso,OK",36.2882,-95.8328
+"New Albany,IN",38.3089,-85.8234
+"Benton,AR",34.5775,-92.5712
+"Meridian,MS",32.3846,-88.6896
+"Phenix City,AL",32.4588,-85.0251
+"Roseville,MN",45.0155,-93.1545
+"Richfield,MN",44.8762,-93.2833
+"Kearns,UT",40.652,-112.0093
+"Peachtree City,GA",33.3943,-84.5712
+"Lauderdale Lakes,FL",26.1682,-80.2017
+"Gillette,WY",44.2752,-105.4983
+"Franklin,WI",42.8854,-88.0104
+"El Mirage,AZ",33.5905,-112.3271
+"LaGrange,GA",33.0274,-85.0384
+"Middletown,DE",39.4453,-75.7166
+"Junction City,KS",39.0271,-96.8496
+"Monroe,NC",35.0061,-80.5595
+"Randallstown,MD",39.3723,-76.8024
+"Bell,CA",33.9801,-118.1798
+"Sanford,NC",35.4874,-79.1772
+"Auburn,CA",38.895,-121.0778
+"Oak Harbor,WA",48.2965,-122.6333
+"New City,NY",41.1543,-73.9909
+"Owings Mills,MD",39.4115,-76.7913
+"Englewood,CO",39.6468,-104.9942
+"East Point,GA",33.6696,-84.4701
+"DeLand,FL",29.0224,-81.2873
+"Merrillville,IN",41.4728,-87.3197
+"Calhoun,GA",34.4918,-84.9391
+"Arcata,CA",40.8615,-124.0757
+"Nacogdoches,TX",31.6134,-94.6528
+"Vestavia Hills,AL",33.4518,-86.7438
+"Montgomery Village,MD",39.1783,-77.1957
+"Goshen,IN",41.5743,-85.8308
+"Butte,MT",45.902,-112.6571
+"Russellville,AR",35.2763,-93.1383
+"Grass Valley,CA",39.2237,-121.0521
+"University City,MO",38.6657,-90.3315
+"Adelanto,CA",34.5815,-117.4397
+"Carlsbad,NM",32.4011,-104.2389
+"Chester,PA",39.8456,-75.3718
+"Douglasville,GA",33.7384,-84.7065
+"Salisbury,NC",35.6656,-80.4909
+"Laramie,WY",41.3099,-105.6085
+"Lake Stevens,WA",48.0028,-122.096
+"Fairborn,OH",39.801,-84.0093
+"Cottonwood Heights,UT",40.6137,-111.8144
+"Midlothian,TX",32.4668,-96.9892
+"Alamogordo,NM",32.8837,-105.9624
+"Pikesville,MD",39.3893,-76.702
+"Bridgeton,NJ",39.4286,-75.2281
+"Woodstock,GA",34.1026,-84.509
+"Fairmont,WV",39.4768,-80.1491
+"Spanaway,WA",47.0979,-122.4233
+"Harker Heights,TX",31.0572,-97.6445
+"Des Moines,WA",47.3915,-122.3157
+"Coos Bay,OR",43.3789,-124.233
+"Clearfield,UT",41.103,-112.0237
+"Liberty,MO",39.2394,-94.4191
+"Westlake,OH",41.4524,-81.9295
+"Juneau,AK",58.4546,-134.1739
+"Syracuse,UT",41.086,-112.0698
+"Parkville,MD",39.3832,-76.5519
+"Alliance,OH",40.9107,-81.1189
+"Banning,CA",33.946,-116.8992
+"Princeton,NJ",40.3563,-74.6693
+"Orcutt,CA",34.8668,-120.4269
+"Columbus,MS",33.5088,-88.4096
+"Fair Oaks,CA",38.6504,-121.2497
+"Rexburg,ID",43.8224,-111.792
+"Nicholasville,KY",37.8902,-84.5669
+"Goleta,CA",34.436,-119.8596
+"Opelika,AL",32.6612,-85.3769
+"Aiken,SC",33.531,-81.7268
+"Lawrenceville,GA",33.9523,-83.9931
+"Fountain,CO",38.6886,-104.6829
+"Kerrville,TX",30.0398,-99.132
+"Barstow,CA",34.8661,-117.0472
+"Oceanside,NY",40.6328,-73.6364
+"Crown Point,IN",41.4141,-87.3457
+"Gurnee,IL",42.3708,-87.9392
+"Orangeburg,SC",33.4928,-80.867
+"Chamblee,GA",33.8842,-84.3008
+"Santa Paula,CA",34.3521,-119.0698
+"South Lake Tahoe,CA",38.9393,-119.9828
+"Clinton,IA",41.8434,-90.2408
+"Atascadero,CA",35.4827,-120.6858
+"North Royalton,OH",41.3138,-81.7452
+"Stockbridge,GA",33.5253,-84.2294
+"Kent,OH",41.149,-81.361
+"Greenville,MS",33.385,-91.0514
+"Aberdeen,WA",46.9757,-123.8094
+"Atwater,CA",37.3543,-120.5981
+"Oak Park,MI",42.4649,-83.1824
+"Oak Ridge,TN",35.9639,-84.2938
+"Casselberry,FL",28.6625,-81.3218
+"Wasco,CA",35.5938,-119.3671
+"Belle Glade,FL",26.692,-80.6672
+"West Springfield,MA",42.1253,-72.6503
+"Burlington,IA",40.8072,-91.1247
+"New Iberia,LA",30.0049,-91.8202
+"Jacksonville,AR",34.8807,-92.1302
+"Rockledge,FL",28.3201,-80.732
+"Bixby,OK",35.9454,-95.8773
+"Tualatin,OR",45.3772,-122.7746
+"Fridley,MN",45.0841,-93.2595
+"Ashtabula,OH",41.8806,-80.7984
+"Statesville,NC",35.7842,-80.8714
+"Seneca,SC",34.6815,-82.9609
+"Florence,AZ",33.059,-111.4208
+"Lansing,IL",41.5648,-87.5462
+"Millville,NJ",39.3903,-75.0561
+"Horn Lake,MS",34.9512,-90.0501
+"Windsor,CA",38.5417,-122.8086
+"Reisterstown,MD",39.4552,-76.8144
+"Shelby,NC",35.2904,-81.5451
+"Maywood,CA",33.9885,-118.1877
+"Magna,UT",40.7634,-112.1599
+"Kinston,NC",35.2748,-77.5936
+"Lemon Grove,CA",32.7331,-117.0344
+"West Linn,OR",45.3669,-122.6399
+"Lemoore,CA",36.2949,-119.7983
+"Alvin,TX",29.3871,-95.2933
+"Thomasville,NC",35.8813,-80.0807
+"Temple Terrace,FL",28.0437,-82.3774
+"Norco,CA",33.9252,-117.5499
+"Immokalee,FL",26.4253,-81.4251
+"Pearl,MS",32.273,-90.0918
+"Sedalia,MO",38.7042,-93.2351
+"Chanhassen,MN",44.8544,-93.5621
+"Cabot,AR",34.9768,-92.0274
+"Neenah,WI",44.167,-88.4764
+"Twentynine Palms,CA",34.1478,-116.0659
+"East St. Louis,IL",38.6156,-90.1304
+"Paris,TX",33.6688,-95.546
+"West Odessa,TX",31.8388,-102.4996
+"Medina,OH",41.1358,-81.8694
+"Barberton,OH",41.0094,-81.6038
+"Green,OH",40.9483,-81.4757
+"Decatur,GA",33.7711,-84.2968
+"Lancaster,SC",34.7247,-80.7801
+"Austin,MN",43.6718,-92.9783
+"South Salt Lake,UT",40.7056,-111.8986
+"Tarpon Springs,FL",28.1493,-82.7623
+"Sevierville,TN",35.8873,-83.5677
+"Ruskin,FL",27.7065,-82.4209
+"El Cerrito,CA",37.9197,-122.3025
+"Claremore,OK",36.3143,-95.6099
+"Homewood,AL",33.4617,-86.8092
+"Bainbridge Island,WA",47.6439,-122.5434
+"Middle River,MD",39.3345,-76.4318
+"Yucca Valley,CA",34.1234,-116.4216
+"Balch Springs,TX",32.7194,-96.6151
+"Terrytown,LA",29.9014,-90.0279
+"Riverbank,CA",37.7268,-120.9402
+"Grandview,MO",38.8802,-94.5227
+"South Elgin,IL",41.9906,-88.3134
+"Ontario,OR",44.0259,-116.9759
+"Ardmore,OK",34.1944,-97.1253
+"Herndon,VA",38.9699,-77.3867
+"Dinuba,CA",36.5453,-119.3987
+"Clinton,MS",32.354,-90.3403
+"Ashland,CA",37.6942,-122.1159
+"Harvey,IL",41.6076,-87.6521
+"Trotwood,OH",39.7927,-84.3165
+"West Memphis,AR",35.1531,-90.1995
+"Shelbyville,KY",38.2069,-85.2293
+"San Fernando,CA",34.2886,-118.4363
+"Saginaw,TX",32.8657,-97.3654
+"Thomasville,GA",30.8394,-83.9782
+"Fort Washington,MD",38.7339,-77.0069
+"Lincolnton,NC",35.4747,-81.2385
+"Simpsonville,SC",34.7287,-82.2573
+"Wadsworth,OH",41.0279,-81.7324
+"Fairfax,VA",38.8531,-77.2998
+"Edgewater,FL",28.9594,-80.9407
+"Fort Dodge,IA",42.5098,-94.1751
+"Calabasas,CA",34.1375,-118.6689
+"Chalmette,LA",29.9437,-89.9659
+"Palatka,FL",29.6493,-81.6705
+"Valinda,CA",34.0401,-117.93
+"Van Buren,AR",35.448,-94.3528
+"Greeneville,TN",36.168,-82.8197
+"Half Moon Bay,CA",37.4688,-122.4383
+"Belton,MO",38.8193,-94.5334
+"Romulus,MI",42.2237,-83.366
+"Leland,NC",34.2044,-78.0277
+"Zion,IL",42.4598,-87.8509
+"Watertown,WI",43.1893,-88.7285
+"Plainview,TX",34.1911,-101.7234
+"Auburn,ME",44.085,-70.2492
+"Lisle,IL",41.7918,-88.0888
+"Greenbelt,MD",38.9953,-76.8885
+"Dickinson,ND",46.8917,-102.7924
+"Hastings,MN",44.7318,-92.8538
+"Willoughby,OH",41.646,-81.4084
+"Mustang,OK",35.3917,-97.7246
+"Gallup,NM",35.5183,-108.7423
+"Crystal,MN",45.0377,-93.3599
+"Marshall,TX",32.537,-94.3515
+"Webster Groves,MO",38.5866,-90.3544
+"Acworth,GA",34.0566,-84.6715
+"Griffin,GA",33.2418,-84.2747
+"Marina,CA",36.6812,-121.7895
+"Mandan,ND",46.829,-100.887
+"Fairhope,AL",30.5217,-87.8815
+"Waynesboro,VA",38.0674,-78.9014
+"Landover,MD",38.9241,-76.8875
+"Hopewell,VA",37.2915,-77.2985
+"Fort Walton Beach,FL",30.4249,-86.6194
+"Clinton,UT",41.1395,-112.0656
+"Union City,GA",33.5941,-84.5629
+"Dolton,IL",41.6284,-87.5979
+"Kuna,ID",43.4869,-116.3986
+"Hudson,OH",41.2399,-81.4408
+"Taylors,SC",34.9157,-82.3124
+"Lexington,SC",33.989,-81.2202
+"Milford,DE",38.9091,-75.4224
+"Shelbyville,TN",35.4987,-86.4516
+"Naples,FL",26.1504,-81.7936
+"Lealman,FL",27.8197,-82.6847
+"Chester,VA",37.3531,-77.4342
+"Gardner,KS",38.8158,-94.93
+"Secaucus,NJ",40.781,-74.0659
+"Shafter,CA",35.4794,-119.2013
+"Katy,TX",29.7904,-95.8353
+"Del City,OK",35.4483,-97.4408
+"Lewistown,PA",40.5964,-77.573
+"New Castle,IN",39.919,-85.3697
+"Villa Park,IL",41.8864,-87.9779
+"Elkridge,MD",39.1941,-76.7427
+"Prichard,AL",30.7735,-88.1301
+"Hays,KS",38.8815,-99.3218
+"King of Prussia,PA",40.0963,-75.382
+"Eustis,FL",28.856,-81.6781
+"Sapulpa,OK",36.0089,-96.1006
+"Duarte,CA",34.161,-117.9504
+"Oxford,AL",33.5967,-85.8687
+"Evans,CO",40.366,-104.7389
+"Alexandria,MN",45.8777,-95.3766
+"Bardstown,KY",37.8174,-85.4548
+"East Ridge,TN",34.9973,-85.2284
+"Elko,NV",40.8387,-115.7674
+"Harvey,LA",29.8876,-90.0666
+"Shelbyville,IN",39.535,-85.7792
+"Milwaukie,OR",45.4447,-122.6221
+"Bryant,AR",34.6152,-92.4914
+"New Hope,MN",45.0374,-93.3869
+"Dyersburg,TN",36.0465,-89.3777
+"Holiday,FL",28.1864,-82.7429
+"Golden,CO",39.7406,-105.2118
+"South El Monte,CA",34.0493,-118.0484
+"Culpeper,VA",38.4705,-78.0001
+"Ozark,MO",37.0361,-93.2155
+"Columbia Heights,MN",45.0484,-93.2472
+"Newton,KS",38.0368,-97.3451
+"Poplar Bluff,MO",36.7632,-90.4136
+"Tukwila,WA",47.4749,-122.2727
+"Shelton,WA",47.2186,-123.112
+"Henderson,NC",36.3259,-78.4155
+"Linda,CA",39.1241,-121.5421
+"Affton,MO",38.5499,-90.3264
+"Merrick,NY",40.6515,-73.5535
+"Snellville,GA",33.8563,-84.0038
+"West Chester,PA",39.9601,-75.6058
+"Forest Park,GA",33.6209,-84.359
+"Sand Springs,OK",36.1342,-96.1284
+"Sherwood,OR",45.3593,-122.8433
+"Rosedale,MD",39.3266,-76.5084
+"Selma,AL",32.4166,-87.0336
+"Tahlequah,OK",35.9116,-94.9773
+"Stillwater,MN",45.0573,-92.8313
+"Tullahoma,TN",35.3721,-86.2173
+"Vincennes,IN",38.676,-87.5102
+"Castaic,CA",34.4818,-118.6317
+"Altoona,IA",41.6481,-93.4784
+"Bethany,OK",35.5072,-97.6417
+"Tiffin,OH",41.1165,-83.1805
+"Red Bluff,CA",40.1735,-122.2413
+"Fox Crossing,WI",44.2229,-88.4763
+"Lexington,NC",35.8017,-80.2682
+"Whitehall,OH",39.9682,-82.8833
+"McAlester,OK",34.9262,-95.7698
+"Twinsburg,OH",41.322,-81.4451
+"Avon,IN",39.7603,-86.3917
+"Ansonia,CT",41.3443,-73.0689
+"Deerfield,IL",42.1654,-87.8516
+"Westminster,MD",39.5796,-77.0066
+"Cocoa,FL",28.382,-80.7674
+"Moultrie,GA",31.1591,-83.7708
+"Rancho Mirage,CA",33.7634,-116.4271
+"Gautier,MS",30.4106,-88.6568
+"Breaux Bridge,LA",30.2829,-91.9043
+"Defiance,OH",41.281,-84.3661
+"Berea,KY",37.5904,-84.2898
+"Chowchilla,CA",37.1095,-120.2349
+"Palestine,TX",31.7544,-95.6471
+"Crawfordsville,IN",40.0428,-86.8975
+"Boerne,TX",29.7844,-98.7289
+"Hyattsville,MD",38.9612,-76.9548
+"Niles,OH",41.1878,-80.753
+"Trenton,MI",42.1394,-83.1929
+"Rutland,VT",43.6091,-72.9782
+"Round Lake,IL",42.3435,-88.1058
+"Oxon Hill,MD",38.7887,-76.9733
+"Beaver Dam,WI",43.469,-88.8308
+"San Carlos Park,FL",26.4765,-81.8193
+"Kingsland,GA",30.8194,-81.7217
+"Huntington,IN",40.8815,-85.5053
+"Lenoir,NC",35.9096,-81.5247
+"Menasha,WI",44.2124,-88.4272
+"Ada,OK",34.7683,-96.6689
+"Midway,FL",28.7924,-81.2314
+"Steubenville,OH",40.3653,-80.652
+"Wailuku,HI",20.8834,-156.5059
+"Albert Lea,MN",43.6547,-93.3642
+"Gretna,LA",29.9101,-90.0515
+"Centerville,UT",40.9284,-111.8849
+"Marion,IL",37.7173,-88.9279
+"Vero Beach,FL",27.6463,-80.393
+"Lake Mary,FL",28.7592,-81.3359
+"Colonial Heights,VA",37.265,-77.3969
+"La Marque,TX",29.369,-94.9957
+"South Ogden,UT",41.1722,-111.9577
+"Coalinga,CA",36.143,-120.3262
+"Ashwaubenon,WI",44.4796,-88.0889
+"Dickson,TN",36.064,-87.3668
+"Sylacauga,AL",33.1778,-86.2606
+"East Cleveland,OH",41.5318,-81.5795
+"Mountain Home,ID",43.1324,-115.6972
+"Republic,MO",37.1452,-93.4446
+"Seagoville,TX",32.653,-96.5455
+"Bemidji,MN",47.4828,-94.8796
+"Bristol,VA",36.618,-82.1606
+"Lake Wales,FL",27.9195,-81.5961
+"Auburndale,FL",28.0962,-81.8011
+"Morganton,NC",35.7408,-81.7003
+"Solvang,CA",34.5936,-120.1401
+"Douglas,AZ",31.3602,-109.5394
+"Cinco Ranch,TX",29.7395,-95.7607
+"Chickasha,OK",35.041,-97.9472
+"Ripon,CA",37.7417,-121.131
+"Monroe,GA",33.799,-83.716
+"Port Jervis,NY",41.3783,-74.6909
+"Kaukauna,WI",44.2776,-88.2645
+"Addison,TX",32.959,-96.8355
+"Mount Holly,NC",35.3136,-81.0072
+"Conyers,GA",33.6645,-83.9966
+"Bridgeview,IL",41.7403,-87.8067
+"Lady Lake,FL",28.9241,-81.9299
+"Washington,NC",35.5587,-77.0545
+"Dyer,IN",41.4976,-87.509
+"Niceville,FL",30.5291,-86.4754
+"Spanish Springs,NV",39.6567,-119.6695
+"Millbrook,AL",32.5028,-86.3737
+"Carthage,MO",37.1503,-94.3225
+"Humble,TX",29.9921,-95.2655
+"Circleville,OH",39.6063,-82.9334
+"Powder Springs,GA",33.8659,-84.6838
+"Blytheville,AR",35.9321,-89.9051
+"Mitchell,SD",43.7296,-98.0337
+"Graham,NC",36.0596,-79.3892
+"Elkton,MD",39.6067,-75.8208
+"Riverdale,GA",33.564,-84.4103
+"Miami,OK",36.8877,-94.8718
+"McMinnville,TN",35.6863,-85.7812
+"Blackfoot,ID",43.194,-112.3455
+"Buford,GA",34.1185,-83.9916
+"Talladega,AL",33.4329,-86.0976
+"Asbury Park,NJ",40.2226,-74.0119
+"Pulaski,VA",37.0528,-80.7624
+"Wilkinsburg,PA",40.4442,-79.8733
+"Elk Plain,WA",47.0448,-122.3671
+"Weston,WI",44.8905,-89.5487
+"Hereford,TX",34.8232,-102.4001
+"Englewood,FL",26.9603,-82.3535
+"Washington Court House,OH",39.5383,-83.4279
+"Vandalia,OH",39.879,-84.193
+"Tehachapi,CA",35.1274,-118.4749
+"Clarksdale,MS",34.1971,-90.5729
+"Alpine,CA",32.8439,-116.7585
+"Jackson,MO",37.3792,-89.6521
+"Lamont,CA",35.2651,-118.9159
+"Lebanon,MO",37.6717,-92.6603
+"Hartsville,SC",34.3676,-80.0833
+"Saraland,AL",30.8478,-88.1004
+"Falls Church,VA",38.8847,-77.1751
+"Muscle Shoals,AL",34.7436,-87.6344
+"Jennings,MO",38.723,-90.2644
+"Thonotosassa,FL",28.0465,-82.291
+"Toppenish,WA",46.3806,-120.3123
+"Ozark,AL",31.4508,-85.6473
+"Douglas,GA",31.5065,-82.8543
+"East Wenatchee,WA",47.4174,-120.2822
+"Covington,GA",33.6049,-83.8465
+"Taos,NM",36.3871,-105.5804
+"Antioch,IL",42.4742,-88.0721
+"Hawaiian Gardens,CA",33.8303,-118.0728
+"Hendersonville,NC",35.3242,-82.4576
+"Crowley,LA",30.2175,-92.3752
+"Lockhart,TX",29.8785,-97.6831
+"Pineville,LA",31.3414,-92.4096
+"Greensburg,PA",40.3113,-79.5444
+"Middleburg,FL",30.0502,-81.9011
+"Pell City,AL",33.5609,-86.2669
+"Havre de Grace,MD",39.5481,-76.1145
+"Cayce,SC",33.9458,-81.0433
+"Hutchinson,MN",44.8856,-94.3768
+"Beacon,NY",41.5036,-73.9655
+"Dumas,TX",35.8613,-101.9642
+"Artesia,NM",32.8492,-104.4274
+"Deming,NM",32.2631,-107.7525
+"Fulshear,TX",29.693,-95.8792
+"Oak Park,CA",34.1849,-118.7669
+"Forrest City,AR",35.0135,-90.7931
+"Levelland,TX",33.5806,-102.3636
+"Palmetto,FL",27.5251,-82.575
+"Forest Park,IL",41.8683,-87.8157
+"Lawrenceburg,KY",38.0332,-84.9032
+"Brevard,NC",35.2439,-82.7264
+"Soddy-Daisy,TN",35.2571,-85.1739
+"Vadnais Heights,MN",45.057,-93.0748
+"Rantoul,IL",40.3031,-88.1549
+"Elizabethton,TN",36.3367,-82.2369
+"Avenal,CA",36.0311,-120.1162
+"Olivehurst,CA",39.0817,-121.5549
+"Grover Beach,CA",35.1204,-120.6199
+"Englewood,OH",39.8644,-84.3071
+"Washington,PA",40.174,-80.2466
+"Okmulgee,OK",35.6136,-96.0069
+"Azle,TX",32.8955,-97.5379
+"Moss Point,MS",30.424,-88.5289
+"Fort Morgan,CO",40.2538,-103.7909
+"Globe,AZ",33.3869,-110.7515
+"Sandpoint,ID",48.2822,-116.5613
+"Lone Tree,CO",39.5309,-104.871
+"McPherson,KS",38.3714,-97.6605
+"Sharon,PA",41.234,-80.4997
+"Claremont,NH",43.379,-72.3368
+"Cedartown,GA",34.0223,-85.2479
+"South Sioux City,NE",42.4627,-96.4126
+"Franklin,LA",29.7851,-91.5098
+"Yulee,FL",30.635,-81.5678
+"Tarboro,NC",35.9046,-77.5563
+"Lakeland,TN",35.2585,-89.7308
+"Fulton,MO",38.8551,-91.9511
+"Grand Terrace,CA",34.0312,-117.3132
+"Panama City Beach,FL",30.2369,-85.8775
+"Lantana,FL",26.5834,-80.0564
+"Muscoy,CA",34.155,-117.3477
+"Cheney,WA",47.4901,-117.579
+"Boone,IA",42.053,-93.877
+"Paris,KY",38.2016,-84.2719
+"Irmo,SC",34.1018,-81.1957
+"Riverton,WY",43.0421,-108.414
+"Kelso,WA",46.1236,-122.891
+"Elkhorn,WI",42.6711,-88.5377
+"Virginia,MN",47.5169,-92.5128
+"Lewisburg,TN",35.4494,-86.7897
+"Orange City,FL",28.9347,-81.2881
+"Bastrop,LA",32.7749,-91.9058
+"Markham,IL",41.6,-87.6905
+"Marion,AR",35.2041,-90.2061
+"Delhi,CA",37.4306,-120.7759
+"Winchester,TN",35.1898,-86.1074
+"New Kensington,PA",40.5711,-79.7521
+"Cottonwood,AZ",34.7192,-112.0014
+"West Monroe,LA",32.512,-92.1513
+"Grenada,MS",33.7816,-89.813
+"Jesup,GA",31.5992,-81.8895
+"Overlea,MD",39.3642,-76.5176
+"Neosho,MO",36.8441,-94.3756
+"Freeport,TX",28.9454,-95.3601
+"Lovington,NM",32.9125,-103.3277
+"Emeryville,CA",37.8382,-122.2932
+"Bainbridge,GA",30.9046,-84.5727
+"Leeds,AL",33.5429,-86.5636
+"Spring Lake,NC",35.1842,-78.9959
+"Moncks Corner,SC",33.1631,-80.0135
+"Garden City,ID",43.6526,-116.2743
+"Glenwood Springs,CO",39.5455,-107.3346
+"Brookhaven,MS",31.5803,-90.4432
+"Cottage Grove,OR",43.7961,-123.0573
+"Smyrna,DE",39.2936,-75.6083
+"Newman,CA",37.3157,-121.0211
+"Tomball,TX",30.0951,-95.6194
+"Florida City,FL",25.4418,-80.4685
+"Arlington,TN",35.2594,-89.668
+"Somerset,PA",40.005,-79.0778
+"Eufaula,AL",31.9102,-85.1505
+"Cocoa Beach,FL",28.3326,-80.6274
+"Clute,TX",29.0256,-95.3975
+"Guthrie,OK",35.8428,-97.4357
+"Archdale,NC",35.9033,-79.9592
+"Newport,TN",35.9617,-83.1977
+"Magnolia,AR",33.2774,-93.2261
+"Nanakuli,HI",21.3892,-158.1445
+"Webster,TX",29.5317,-95.1188
+"Show Low,AZ",34.2671,-110.0384
+"Gardnerville Ranchos,NV",38.8872,-119.7426
+"Snyder,TX",32.7133,-100.9113
+"Celina,OH",40.5551,-84.5629
+"Poulsbo,WA",47.7417,-122.6407
+"Rifle,CO",39.5362,-107.7729
+"Lexington Park,MD",38.2543,-76.4415
+"Lower Burrell,PA",40.5818,-79.7141
+"Silverton,OR",45.0031,-122.7809
+"Two Rivers,WI",44.1564,-87.5824
+"Lawrenceburg,TN",35.2497,-87.3325
+"Florence,OR",43.9914,-124.1062
+"Kings Mountain,NC",35.2348,-81.3501
+"Elkins,WV",38.9237,-79.854
+"Fort Meade,MD",39.1058,-76.7438
+"Bacliff,TX",29.5077,-94.988
+"Wasilla,AK",61.577,-149.466
+"River Forest,IL",41.895,-87.8194
+"North Branch,MN",45.5137,-92.9601
+"Fruitland Park,FL",28.86,-81.919
+"Raceland,LA",29.7282,-90.6362
+"Van Wert,OH",40.865,-84.5879
+"Alamosa,CO",37.4751,-105.8769
+"Brooklyn,OH",41.4349,-81.7498
+"Petal,MS",31.3477,-89.2359
+"Anderson,CA",40.4497,-122.295
+"Monroe,WI",42.603,-89.6382
+"Covington,LA",30.4808,-90.1122
+"Milton,FL",30.6286,-87.0522
+"Gifford,FL",27.6747,-80.4102
+"Bernalillo,NM",35.3127,-106.5537
+"Cape Canaveral,FL",28.3933,-80.605
+"Sweetwater,TX",32.4693,-100.4092
+"Linthicum,MD",39.2088,-76.6625
+"Fountain Inn,SC",34.6994,-82.1999
+"Lyons,IL",41.8121,-87.8192
+"Richmond Heights,OH",41.5589,-81.5029
+"Sedona,AZ",34.8574,-111.7951
+"Fort Madison,IA",40.6207,-91.3509
+"Fredonia,NY",42.4407,-79.3319
+"Helena-West Helena,AR",34.5314,-90.6201
+"Sparta,WI",43.9378,-90.8131
+"Box Elder,SD",44.1121,-103.0827
+"Fort Lupton,CO",40.0831,-104.8024
+"Fife,WA",47.2328,-122.3518
+"Snohomish,WA",47.9276,-122.0968
+"Bel Air,MD",39.5348,-76.346
+"Struthers,OH",41.051,-80.592
+"Clinton,TN",36.0981,-84.1283
+"Fairmont,MN",43.6441,-94.4621
+"Clay,AL",33.6976,-86.607
+"Clarksville,AR",35.457,-93.4803
+"Denham Springs,LA",30.4743,-90.9594
+"Fort Valley,GA",32.552,-83.8819
+"Picture Rocks,AZ",32.3274,-111.2557
+"Port Wentworth,GA",32.1942,-81.1984
+"Aiea,HI",21.3865,-157.9232
+"Hermantown,MN",46.8058,-92.2407
+"La Plata,MD",38.5352,-76.9701
+"Wilmore,KY",37.8786,-84.6545
+"Rainbow City,AL",33.9337,-86.0922
+"Alderwood Manor,WA",47.8147,-122.2672
+"Walterboro,SC",32.901,-80.676
+"Lowell,AR",36.2561,-94.1532
+"Silsbee,TX",30.3456,-94.1764
+"Boiling Springs,SC",35.045,-81.9779
+"Fort Stockton,TX",30.8926,-102.8844
+"Lantana,TX",33.092,-97.1216
+"Winslow,AZ",35.0253,-110.7098
+"Ruidoso,NM",33.3647,-105.6432
+"Manistee,MI",44.244,-86.3242
+"Beverly Hills,FL",28.9175,-82.4541
+"Bay Minette,AL",30.893,-87.7912
+"Clinton,NC",35.0005,-78.3311
+"Claymont,DE",39.8032,-75.4606
+"Lenoir City,TN",35.811,-84.2818
+"Cross Lanes,WV",38.4351,-81.7706
+"Hernando,FL",28.9451,-82.3781
+"Girard,OH",41.1666,-80.6963
+"Lake Elmo,MN",44.9944,-92.9031
+"Cloverdale,CA",38.7961,-123.0151
+"Wagoner,OK",35.9641,-95.379
+"Sullivan,MO",38.2129,-91.1636
+"Calimesa,CA",33.9874,-117.0542
+"Ridgefield,WA",45.8114,-122.705
+"Fairview,TN",35.9815,-87.1291
+"Monett,MO",36.922,-93.9261
+"Rapid Valley,SD",44.0674,-103.1223
+"Atmore,AL",31.0927,-87.4763
+"Golden Valley,AZ",35.206,-114.2327
+"Seaside,OR",45.9889,-123.9214
+"Livingston,MT",45.6666,-110.5538
+"Presque Isle,ME",46.6868,-67.9874
+"Chester,SC",34.705,-81.2132
+"Lacombe,LA",30.3141,-89.9311
+"Clinton,MO",38.3716,-93.7679
+"Poteau,OK",35.043,-94.6357
+"Orange Park,FL",30.1706,-81.7041
+"Clanton,AL",32.844,-86.623
+"Needles,CA",34.8164,-114.6189
+"Rock Falls,IL",41.7723,-89.6928
+"Sanger,TX",33.3716,-97.1677
+"Jerseyville,IL",39.1175,-90.3271
+"Nevada,MO",37.8445,-94.3492
+"Montesano,WA",47.0102,-123.5857
+"Monahans,TX",31.6289,-103.0403
+"York,SC",34.9967,-81.234
+"Corning,CA",39.9282,-122.182
+"Elsmere,KY",38.9949,-84.6017
+"Farmville,VA",37.2959,-78.4002
+"Springfield,FL",30.1713,-85.6089
+"Brooksville,FL",28.5404,-82.3903
+"Sallisaw,OK",35.4605,-94.807
+"Middleton,ID",43.7114,-116.6155
+"Tuscumbia,AL",34.7204,-87.7035
+"Humboldt,TN",35.8254,-88.9043
+"Onalaska,TX",30.8209,-95.1111
+"Arab,AL",34.3309,-86.4991
+"Fletcher,NC",35.4316,-82.5038
+"Buckhannon,WV",38.9927,-80.2282
+"Socorro,NM",34.0543,-106.9066
+"St. Joseph,MI",42.0967,-86.485
+"Dalhart,TX",36.0579,-102.5123
+"Orosi,CA",36.5434,-119.2903
+"Aurora,MO",36.9674,-93.7183
+"Trinidad,CO",37.175,-104.4908
+"Lake City,SC",33.8676,-79.7533
+"Locust Grove,GA",33.3442,-84.1071
+"Monument,CO",39.0735,-104.8467
+"Hampton,GA",33.3835,-84.2855
+"Bloomingdale,NJ",41.03,-74.3319
+"Willits,CA",39.4047,-123.3494
+"Clinton,IL",40.1468,-88.9633
+"Floresville,TX",29.14,-98.163
+"Morehead,KY",38.1906,-83.4467
+"Aberdeen,NC",35.135,-79.4326
+"Manhasset,NY",40.7884,-73.6943
+"St. Martin,MS",30.4399,-88.8651
+"Temple Hills,MD",38.8106,-76.9495
+"Old Forge,PA",41.3705,-75.7409
+"Blair,NE",41.5417,-96.1361
+"Seminole,TX",32.7208,-102.6503
+"Abingdon,VA",36.7089,-81.9713
+"York,NE",40.8698,-97.5928
+"Ashland,WI",46.5801,-90.8715
+"Rio Bravo,TX",27.3648,-99.482
+"Antigo,WI",45.1413,-89.1556
+"Creston,IA",41.0597,-94.365
+"Webster City,IA",42.4623,-93.8167
+"Indiantown,FL",27.0375,-80.4913
+"Thurmont,MD",39.621,-77.4076
+"Wapato,WA",46.4435,-120.4215
+"Cushing,OK",35.9798,-96.7602
+"Escalon,CA",37.7912,-120.9982
+"Joshua Tree,CA",34.1236,-116.3128
+"Yreka,CA",41.7292,-122.6312
+"Benton,IL",38.011,-88.9179
+"Tyrone,GA",33.4753,-84.5941
+"Palmer,AK",61.5971,-149.1147
+"Old Town,ME",44.9491,-68.7249
+"New London,WI",44.395,-88.7394
+"Farmington,AR",36.037,-94.2537
+"Tolleson,AZ",33.4484,-112.2561
+"Montpelier,VT",44.2658,-72.5717
+"Dade City,FL",28.3568,-82.1942
+"Winooski,VT",44.4951,-73.1843
+"Dahlonega,GA",34.5309,-83.9804
+"Hardeeville,SC",32.2951,-81.0318
+"Huron,CA",36.2041,-120.0961
+"Franklin,NC",35.1798,-83.3808
+"Roosevelt,UT",40.2924,-110.0093
+"Jackson,WI",43.3237,-88.166
+"Morrow,GA",33.5816,-84.3392
+"Commerce,GA",34.2133,-83.473
+"Austell,GA",33.82,-84.645
+"Russellville,KY",36.8393,-86.895
+"Meridianville,AL",34.8729,-86.5722
+"Flatwoods,KY",38.521,-82.7195
+"Marksville,LA",31.1247,-92.0652
+"Truth or Consequences,NM",33.1864,-107.2589
+"Willis,TX",30.4314,-95.4832
+"Trumann,AR",35.6771,-90.5261
+"Leitchfield,KY",37.4862,-86.2857
+"Catoosa,OK",36.1832,-95.7662
+"Woodland,WA",45.9145,-122.7506
+"Youngtown,AZ",33.5846,-112.3047
+"Lake Hallie,WI",44.8921,-91.4199
+"Orchard Mesa,CO",39.0363,-108.5169
+"Church Hill,TN",36.5204,-82.715
+"Ashville,OH",39.7239,-82.9575
+"Ladera Heights,CA",33.9972,-118.374
+"Demopolis,AL",32.498,-87.8298
+"Trinity,NC",35.8756,-80.0093
+"Blackwell,OK",36.8011,-97.3008
+"Cumming,GA",34.2064,-84.1337
+"Plaquemine,LA",30.2834,-91.2429
+"Martins Ferry,OH",40.1014,-80.7253
+"Avon,CO",39.6445,-106.5133
+"Anadarko,OK",35.0652,-98.2441
+"Pratt,KS",37.6764,-98.7451
+"Moraine,OH",39.6983,-84.2459
+"Emporia,VA",36.6953,-77.5356
+"Hurricane,WV",38.4293,-82.0168
+"North Riverside,IL",41.8461,-87.8263
+"Salem,IN",38.6048,-86.0977
+"Douglas,WY",42.7541,-105.3968
+"Burnet,TX",30.7496,-98.2383
+"Opp,AL",31.2848,-86.257
+"Gladewater,TX",32.5426,-94.9465
+"Mascotte,FL",28.611,-81.9107
+"Stone Mountain,GA",33.8034,-84.1724
+"New Castle,CO",39.5776,-107.5267
+"Pigeon Forge,TN",35.7977,-83.5623
+"Sylvester,GA",31.53,-83.8338
+"Boonville,IN",38.0469,-87.2846
+"Eagar,AZ",34.1058,-109.2956
+"Rib Mountain,WI",44.9196,-89.6763
+"Henryetta,OK",35.4421,-95.9848
+"Cochran,GA",32.3875,-83.3523
+"Sidney,NE",41.134,-102.9681
+"Princeton,KY",37.1068,-87.8854
+"Edgewood,NM",35.1318,-106.2151
+"Childress,TX",34.4293,-100.2516
+"Barbourville,KY",36.8667,-83.885
+"Metropolis,IL",37.1565,-88.7083
+"Williamsburg,KY",36.7392,-84.1647
+"Lewistown,MT",47.0514,-109.4524
+"Durham,CA",39.6232,-121.7875
+"District Heights,MD",38.8588,-76.8885
+"Lakemoor,IL",42.3396,-88.2038
+"Progreso,TX",26.0962,-97.9566
+"Paradise,CA",39.7558,-121.6063
+"Brookville,OH",39.8393,-84.4176
+"Hutchins,TX",32.6421,-96.7093
+"Littlefield,TX",33.9191,-102.3349
+"Piedmont,SC",34.7074,-82.4651
+"Highgrove,CA",34.0106,-117.3098
+"North Manchester,IN",41.0044,-85.775
+"Monroeville,AL",31.5162,-87.3279
+"Grafton,WV",39.3409,-80.0161
+"Princeton,WV",37.3689,-81.0961
+"Mathis,TX",28.0909,-97.817
+"Starke,FL",29.9474,-82.1129
+"East Flat Rock,NC",35.2802,-82.4171
+"Jonesborough,TN",36.2959,-82.4766
+"Semmes,AL",30.7941,-88.2358
+"Warren,AR",33.6113,-92.0677
+"Preston,ID",42.0989,-111.8799
+"Falcon Heights,MN",44.9899,-93.177
+"Elberton,GA",34.1064,-82.8705
+"Mena,AR",34.5812,-94.2369
+"Sparta,TN",35.9347,-85.4726
+"Jim Thorpe,PA",40.8712,-75.7433
+"Colby,KS",39.3843,-101.0459
+"Robbins,IL",41.6431,-87.708
+"Northwood,OH",41.6089,-83.4836
+"Black River Falls,WI",44.2981,-90.842
+"Jackson,GA",33.292,-83.9678
+"Mocksville,NC",35.9006,-80.5631
+"Palermo,CA",39.4313,-121.5225
+"Floral City,FL",28.7065,-82.309
+"New Castle,DE",39.6685,-75.5692
+"Morris,MN",45.5856,-95.9048
+"Wadesboro,NC",34.9645,-80.0746
+"Odessa,MO",38.9988,-93.9666
+"Byron,GA",32.6474,-83.7541
+"Bisbee,AZ",31.4126,-109.9179
+"Gilmer,TX",32.7317,-94.946
+"West Wendover,NV",40.7407,-114.0783
+"Boulder Creek,CA",37.1341,-122.1271
+"South Haven,IN",41.5438,-87.1367
+"Crestwood,KY",38.3356,-85.4839
+"Silver Springs,NV",39.3826,-119.2149
+"Stewartstown,PA",39.7528,-76.5925
+"Dundee,FL",28.0115,-81.5995
+"Glennville,GA",31.9382,-81.9305
+"Winnsboro,LA",32.1651,-91.721
+"Parker,AZ",34.0286,-114.2224
+"Sheridan,AR",34.2995,-92.4226
+"King George,VA",38.2807,-77.1896
+"Chinle,AZ",36.1504,-109.5794
+"Tucumcari,NM",35.17,-103.7046
+"Hummelstown,PA",40.2657,-76.7126
+"Dallas,NC",35.3167,-81.1827
+"Dillon,MT",45.2177,-112.6348
+"Wamego,KS",39.2054,-96.31
+"Black Diamond,WA",47.313,-122.0181
+"Landrum,SC",35.1747,-82.1849
+"New Boston,TX",33.4612,-94.4182
+"Benton City,WA",46.2623,-119.4812
+"McLoud,OK",35.407,-97.1013
+"Port Allen,LA",30.4456,-91.2098
+"Campbelltown,PA",40.2761,-76.5848
+"Mountain Grove,MO",37.1341,-92.266
+"Granite Falls,NC",35.7966,-81.4233
+"Bushnell,FL",28.6856,-82.116
+"Oak View,CA",34.399,-119.2976
+"Scottsville,KY",36.7521,-86.2018
+"Dilley,TX",28.6675,-99.1765
+"Piedmont,AL",33.9268,-85.6148
+"Surfside Beach,SC",33.6093,-78.9772
+"Capitol Heights,MD",38.8766,-76.9074
+"Ardsley,NY",41.0135,-73.8395
+"Jamestown,NC",35.9985,-79.9347
+"Pinetop-Lakeside,AZ",34.1486,-109.9658
+"King City,OR",45.4011,-122.8071
+"Jourdanton,TX",28.9138,-98.5411
+"St. James,MN",43.9832,-94.6249
+"Clarkdale,AZ",34.7503,-112.055
+"Woodbridge,VA",38.6569,-77.2403
+"Deer Park,WA",47.9642,-117.4398
+"Shallotte,NC",33.9759,-78.3807
+"Sullivan,IN",39.0973,-87.4074
+"Canton,NC",35.5515,-82.8406
+"East Troy,WI",42.7848,-88.3973
+"Del Mar,CA",32.9633,-117.2627
+"Montgomery,WV",38.1741,-81.3241
+"Grant-Valkaria,FL",27.9322,-80.5655
+"Oneida,TN",36.5172,-84.5104
+"Mulberry,FL",27.9058,-81.9872
+"Sissonville,WV",38.5042,-81.6398
+"Waverly,OH",39.1256,-82.9836
+"Hiram,GA",33.8771,-84.771
+"Bellville,TX",29.9472,-96.2598
+"Broken Bow,OK",34.0277,-94.7419
+"Lancaster,KY",37.6152,-84.5817
+"Burns,OR",43.5883,-119.0613
+"Rutherfordton,NC",35.3642,-81.9613
+"Austin,AR",35.0061,-91.9895
+"Marine City,MI",42.7138,-82.5012
+"Livingston,TN",36.3875,-85.3265
+"Rossville,GA",34.9747,-85.2898
+"Mabank,TX",32.3681,-96.114
+"Montpelier,OH",41.5817,-84.5968
+"Roland,OK",35.4147,-94.5137
+"Andrews,SC",33.4494,-79.566
+"Belleville,MI",42.2021,-83.4838
+"Washington Park,IL",38.6285,-90.0928
+"Citronelle,AL",31.0952,-88.2468
+"Mojave,CA",35.0139,-118.1895
+"Cle Elum,WA",47.1943,-120.9539
+"Hohenwald,TN",35.5515,-87.5539
+"Welcome,NC",35.9066,-80.2548
+"Cisco,TX",32.3848,-98.9805
+"Quartzsite,AZ",33.6675,-114.217
+"Port St. Joe,FL",29.8267,-85.3069
+"Fulton,KY",36.5145,-88.8819
+"Mamou,LA",30.6349,-92.4179
+"Hesston,KS",38.1403,-97.4272
+"Maiden,NC",35.5853,-81.2201
+"Hudson,NC",35.8474,-81.4864
+"San Manuel,AZ",32.6091,-110.6415
+"Meadow Vista,CA",39.003,-121.0304
+"Fritch,TX",35.6431,-101.5964
+"Mora,MN",45.8768,-93.2914
+"North East,MD",39.6077,-75.9414
+"Clayton,GA",34.8775,-83.4027
+"Gooding,ID",42.9373,-114.7134
+"Ozark,AR",35.4995,-93.8431
+"Lead,SD",44.3528,-103.7671
+"Poteet,TX",29.0372,-98.5728
+"Hanover,IN",38.7133,-85.4726
+"Llano,TX",30.7508,-98.6763
+"Hanceville,AL",34.0634,-86.7651
+"Alexander,AR",34.6185,-92.4512
+"Wilkesboro,NC",36.142,-81.173
+"Claxton,GA",32.1613,-81.9094
+"Cuthbert,GA",31.7713,-84.794
+"Campo,CA",32.6394,-116.4745
+"Hominy,OK",36.422,-96.3929
+"Oakridge,OR",43.745,-122.4637
+"Elizabethtown,NC",34.6238,-78.6097
+"Manila,AR",35.8848,-90.1653
+"Nokomis,FL",27.1227,-82.437
+"Reno,TX",33.6659,-95.4768
+"Peshtigo,WI",45.0556,-87.7476
+"Mackinaw,IL",40.5342,-89.3551
+"Inwood,WV",39.3538,-78.0552
+"Carthage,TN",36.2566,-85.943
+"Winchester,CA",33.7146,-117.0775
+"Haughton,LA",32.5271,-93.5042
+"Pendleton,SC",34.6454,-82.7821
+"Somerville,TN",35.2352,-89.3869
+"Sugar Creek,MO",39.1421,-94.4018
+"Water Valley,MS",34.1622,-89.6301
+"Myerstown,PA",40.3722,-76.3055
+"Cottonwood,CA",40.3904,-122.2861
+"Yerington,NV",38.9554,-119.1101
+"Uniontown,OH",40.9736,-81.4045
+"Wimberley,TX",29.9849,-98.0906
+"Wewoka,OK",35.1441,-96.4967
+"Fairfield,TX",31.7184,-96.1697
+"Mannford,OK",36.1298,-96.3348
+"Springtown,TX",32.9693,-97.6803
+"Union City,PA",41.897,-79.8437
+"Parowan,UT",37.8326,-112.8296
+"Lucedale,MS",30.9312,-88.5959
+"Nokomis,IL",39.3001,-89.2854
+"Okemah,OK",35.4297,-96.3005
+"Hogansville,GA",33.1674,-84.9027
+"Paddock Lake,WI",42.5707,-88.1044
+"Blountville,TN",36.533,-82.329
+"Buffalo,MO",37.6444,-93.0969
+"Brownstown,IN",38.8789,-86.0479
+"Tishomingo,OK",34.2387,-96.6805
+"Eatonville,WA",46.8681,-122.2697
+"Clarksville,TX",33.611,-95.0561
+"Dadeville,AL",32.8326,-85.7675
+"Atkins,AR",35.2414,-92.9465
+"Shelby,MT",48.5031,-111.8615
+"Strasburg,CO",39.7181,-104.3195
+"Nocona,TX",33.7835,-97.7302
+"Ramseur,NC",35.7372,-79.6543
+"Iuka,MS",34.8077,-88.1978
+"Indialantic,FL",28.087,-80.57
+"West Burlington,IA",40.8215,-91.1755
+"Eufaula,OK",35.2922,-95.5862
+"Homer,LA",32.793,-93.0582
+"Arcola,IL",39.6833,-88.3013
+"Homedale,ID",43.6154,-116.9379
+"Cache,OK",34.6297,-98.6181
+"Seward,AK",60.1124,-149.3925
+"Winnie,TX",29.8167,-94.3807
+"Rising Sun,MD",39.7003,-76.0587
+"Sale Creek,TN",35.3895,-85.0875
+"Refugio,TX",28.3073,-97.275
+"Crescent City,FL",29.4375,-81.5173
+"Pearisburg,VA",37.3289,-80.7275
+"Cohasset,MN",47.2389,-93.6396
+"Monticello,GA",33.2955,-83.686
+"Wendell,ID",42.7745,-114.7025
+"Follansbee,WV",40.3385,-80.5976
+"Timberville,VA",38.634,-78.773
+"England,AR",34.546,-91.969
+"Healdton,OK",34.2335,-97.4868
+"Big Lake,AK",61.526,-149.972
+"Liberty,NC",35.8555,-79.5682
+"Tahoka,TX",33.164,-101.7951
+"Port Barre,LA",30.5565,-91.9565
+"Keaau,HI",19.6156,-155.0372
+"Cabazon,CA",33.9127,-116.7828
+"Polkton,NC",35.0031,-80.1963
+"Abbeville,AL",31.5664,-85.2528
+"Pima,AZ",32.8886,-109.8437
+"Brookville,IN",39.423,-85.0105
+"Nice,CA",39.1266,-122.8526
+"Chase City,VA",36.7998,-78.461
+"Oakland City,IN",38.3378,-87.3494
+"Quanah,TX",34.2954,-99.7429
+"Inman,SC",35.0465,-82.09
+"Houston,AK",61.6159,-149.8003
+"Ponder,TX",33.1775,-97.291
+"Prague,OK",35.4997,-96.6999
+"Ashville,AL",33.8331,-86.2698
+"Colorado City,CO",37.9365,-104.8459
+"Panhandle,TX",35.346,-101.3804
+"Ludowici,GA",31.7096,-81.7457
+"Alamo,TN",35.783,-89.1168
+"Clearlake Oaks,CA",39.0218,-122.6593
+"Splendora,TX",30.2324,-95.1616
+"Sugarcreek,OH",40.5076,-81.6409
+"Lumberton,MS",31.0064,-89.4592
+"Jonesville,NC",36.2336,-80.8351
+"New Llano,LA",31.097,-93.2767
+"West Terre Haute,IN",39.4638,-87.4506
+"Pink,OK",35.2327,-97.1002
+"Kearny,AZ",33.0564,-110.9074
+"Elmendorf,TX",29.258,-98.3219
+"Morris,AL",33.7467,-86.8037
+"Santa Nella,CA",37.1014,-121.0153
+"Elkton,KY",36.8135,-87.161
+"Anchor Point,AK",59.7703,-151.7052
+"Kahuku,HI",21.6793,-157.9473
+"Welch,WV",37.4455,-81.5722
+"Jal,NM",32.1148,-103.19
+"Kountze,TX",30.3724,-94.3161
+"North Pole,AK",64.753,-147.36
+"Pardeeville,WI",43.5359,-89.301
+"Stratford,TX",36.3376,-102.076
+"Three Forks,MT",45.89,-111.5522
+"Pearson,GA",31.297,-82.8544
+"Estill Springs,TN",35.2753,-86.1395
+"Mannington,WV",39.5274,-80.3409
+"South Greensburg,PA",40.2783,-79.5473
+"Aitkin,MN",46.5289,-93.7067
+"Cave Junction,OR",42.1672,-123.6474
+"Bull Shoals,AR",36.3747,-92.5903
+"Burns Flat,OK",35.3548,-99.1751
+"Fairchance,PA",39.8251,-79.754
+"Blacksburg,SC",35.1221,-81.5182
+"Malta,MT",48.3555,-107.8709
+"Foresthill,CA",39.0053,-120.8314
+"Medicine Lodge,KS",37.2851,-98.5812
+"Clarkesville,GA",34.6103,-83.5284
+"Brooklet,GA",32.3898,-81.6668
+"Crandon,WI",45.5686,-88.8973
+"Coushatta,LA",32.0256,-93.3406
+"Idaho Springs,CO",39.7445,-105.5003
+"Gilbert,MN",47.4913,-92.4612
+"French Lick,IN",38.5462,-86.6202
+"Woodville,CA",36.0898,-119.205
+"Lorena,TX",31.3818,-97.2127
+"Monon,IN",40.8642,-86.8786
+"Rector,AR",36.2642,-90.2935
+"Westover,AL",33.3685,-86.5346
+"Amity,OR",45.1155,-123.2034
+"Sparta,NC",36.5034,-81.1217
+"Wesson,MS",31.7,-90.396
+"Whitewright,TX",33.5108,-96.3955
+"Stockton,IL",42.3526,-90.0019
+"Rosebud,SD",43.2399,-100.823
+"Richlands,NC",34.9003,-77.5427
+"Rancho Tehama Reserve,CA",40.001,-122.4418
+"Haymarket,VA",38.8122,-77.6363
+"Bluff City,TN",36.4589,-82.2769
+"Perryopolis,PA",40.0868,-79.7528
+"Cade,LA",30.0926,-91.8996
+"Burnsville,NC",35.9164,-82.2974
+"Wellington,UT",39.5358,-110.7344
+"Gordo,AL",33.322,-87.904
+"Edmonton,KY",36.9854,-85.6193
+"Bernice,LA",32.8276,-92.6584
+"Nashua,IA",42.9502,-92.5417
+"Morenci,AZ",33.0531,-109.3307
+"Owingsville,KY",38.1364,-83.7603
+"Dunsmuir,CA",41.2318,-122.2714
+"Sumas,WA",48.9956,-122.2695
+"Oak Hill,OH",38.8962,-82.5691
+"Home Garden,CA",36.3025,-119.6362
+"Clinton,LA",30.8614,-91.015
+"Kittitas,WA",46.9837,-120.419
+"Johnsonville,SC",33.8149,-79.4444
+"Porterdale,GA",33.5739,-83.894
+"Bismarck,MO",37.7673,-90.6225
+"Burkesville,KY",36.7906,-85.3674
+"Perryville,AR",35.012,-92.803
+"Dover,AR",35.391,-93.1143
+"Fayette,MS",31.7123,-91.062
+"Iota,LA",30.326,-92.4956
+"Walls,MS",34.9257,-90.1604
+"San Rafael,NM",35.0878,-107.8895
+"Glade Spring,VA",36.7899,-81.7726
+"Pelzer,SC",34.6434,-82.4588
+"Wellman,IA",41.4693,-91.8354
+"Lakeshire,MO",38.54,-90.3384
+"Fort Ashby,WV",39.4973,-78.7646
+"Callahan,FL",30.5619,-81.832
+"Farmingdale,NJ",40.1983,-74.1701
+"Sperry,OK",36.2978,-95.9917
+"Beverly,OH",39.55,-81.6362
+"Okarche,OK",35.7189,-97.9757
+"Arlington,GA",31.4383,-84.7253
+"Iva,SC",34.307,-82.6636
+"Louisville,NE",40.9965,-96.1614
+"Latta,SC",34.339,-79.4337
+"Mount Hope,WV",37.8976,-81.1738
+"Lumpkin,GA",32.0487,-84.7981
+"Stoneville,NC",36.4653,-79.9064
+"Rush Springs,OK",34.7792,-97.9572
+"Colbert,OK",33.8578,-96.5043
+"Monteagle,TN",35.2367,-85.8513
+"Loyal,WI",44.7366,-90.4959
+"Greenback,TN",35.6487,-84.1724
+"Byng,OK",34.8659,-96.6678
+"Apple Creek,OH",40.7486,-81.8333
+"Brodhead,KY",37.4027,-84.4144
+"Beaverton,MI",43.8811,-84.4887
+"Buchanan,VA",37.5211,-79.6894
+"Jeffersonville,OH",39.6522,-83.555
+"Ehrenberg,AZ",33.6174,-114.4883
+"Yellville,AR",36.2289,-92.686
+"Ohatchee,AL",33.7877,-86.028
+"Mexico Beach,FL",29.948,-85.4157
+"Clendenin,WV",38.4859,-81.3503
+"Kyle,SD",43.4245,-102.1802
+"Talihina,OK",34.7522,-95.0409
+"Maysville,MO",39.8859,-94.3633
+"Angel Fire,NM",36.3821,-105.2718
+"Panora,IA",41.691,-94.3636
+"London,AR",35.328,-93.2417
+"Bassett,VA",36.7615,-79.9866
+"Fairland,OK",36.7506,-94.8483
+"Wink,TX",31.7545,-103.1541
+"Groveton,TX",31.0572,-95.1269
+"Chetopa,KS",37.0376,-95.0926
+"Gray,TN",36.4219,-82.4767
+"Walton,IN",40.6622,-86.2441
+"Eclectic,AL",32.6387,-86.0386
+"Wilhoit,AZ",34.4083,-112.6156
+"North English,IA",41.5168,-92.0777
+"Rowland,NC",34.5362,-79.2928
+"Swansea,SC",33.7395,-81.1053
+"Golden Shores,AZ",34.7819,-114.4777
+"Carrizozo,NM",33.6433,-105.8411
+"Allen,OK",34.8774,-96.413
+"Philipsburg,MT",46.3324,-113.296
+"Hilltop,OH",41.1627,-80.7408
+"Coleman,FL",28.8013,-82.0699
+"Pinnacle,NC",36.323,-80.4241
+"East Bernstadt,KY",37.1923,-84.1209
+"Sandia,TX",28.0199,-97.8701
+"Grundy,VA",37.2754,-82.0988
+"Seville,FL",29.3364,-81.5065
+"Fort Sumner,NM",34.479,-104.2331
+"White Plains,KY",37.1708,-87.3801
+"Council,ID",44.7324,-116.4374
+"Independence,VA",36.6254,-81.1511
+"Rushville,NE",42.7134,-102.4665
+"Superior,MT",47.1935,-114.892
+"Vineland,MN",46.1832,-93.7823
+"Marion,MI",44.1006,-85.1438
+"Frederica,DE",39.008,-75.4667
+"Greenville,GA",33.0322,-84.7162
+"Hackett,AR",35.1878,-94.4106
+"Crystal Springs,FL",28.183,-82.1539
+"Dakota City,IA",42.7229,-94.1977
+"Beckville,TX",32.2436,-94.4561
+"Crowell,TX",33.9839,-99.7241
+"Pahoa,HI",19.4961,-154.9454
+"Kansas,OK",36.2058,-94.789
+"Hurst,IL",37.8349,-89.1443
+"Grapeview,WA",47.3316,-122.8413
+"Mountain Pine,AR",34.5693,-93.1726
+"Phelps,KY",37.509,-82.1605
+"Pleasant Hill,NC",36.258,-80.8904
+"Sierra Blanca,TX",31.1834,-105.3395
+"Lake View,SC",34.3406,-79.1663
+"Ooltewah,TN",35.0723,-85.0546
+"Kasilof,AK",60.331,-151.2293
+"Concord,VA",37.3426,-78.9862
+"Ariton,AL",31.5978,-85.7131
+"Smithville,MS",34.068,-88.3983
+"Camp Wood,TX",29.669,-100.0108
+"White,GA",34.2825,-84.7472
+"Lawtey,FL",30.0484,-82.0725
+"Pelion,SC",33.7751,-81.2502
+"New Straitsville,OH",39.5793,-82.2343
+"Udall,KS",37.3889,-97.1177
+"Inyokern,CA",35.6546,-117.8212
+"Boswell,OK",34.0281,-95.8683
+"Kiowa,OK",34.7223,-95.9018
+"Watkins,CO",39.6971,-104.5787
+"Efland,NC",36.0806,-79.1718
+"Pippa Passes,KY",37.3342,-82.8733
+"Eldorado Springs,CO",39.9367,-105.2625
+"Glenwood,GA",32.1805,-82.6709
+"Sunset,TX",33.4479,-97.7663
+"Harmony,IN",39.5337,-87.073
+"Micanopy,FL",29.506,-82.2806
+"Pilot Station,AK",61.9422,-162.8828
+"English,IN",38.3408,-86.4592
+"Douglas City,CA",40.6636,-122.9261
+"Pattison,TX",29.8193,-95.9765
+"Enoree,SC",34.6593,-81.9609
+"West Milford,WV",39.2044,-80.4034
+"Hometown,WV",38.5288,-81.8552
+"Fairchild,WI",44.6036,-90.9577
+"Knoxville,PA",41.9604,-77.4379
+"Campobello,SC",35.1224,-82.1495
+"Lawndale,NC",35.4142,-81.5631
+"Arnold,NE",41.4232,-100.1936
+"Newton Grove,NC",35.2522,-78.3552
+"Bailey,NC",35.7807,-78.1128
+"Melba,ID",43.3726,-116.5322
+"Mountain View,CO",39.7748,-105.0567
+"Calypso,NC",35.1548,-78.1044
+"Suring,WI",45.0007,-88.3693
+"Utica,KY",37.6028,-87.1126
+"Elkmont,AL",34.9289,-86.9765
+"Strong,AR",33.1079,-92.3598
+"Holt,MO",39.4553,-94.3371
+"Schulter,OK",35.511,-95.9567
+"Rose Bud,AR",35.3249,-92.0811
+"Montcalm,WV",37.3516,-81.2515
+"Lodge Grass,MT",45.3142,-107.3677
+"Parkton,NC",34.9028,-79.0098
+"Three Springs,PA",40.197,-77.9819
+"Converse,LA",31.7795,-93.7001
+"West Goshen,CA",36.349,-119.4516
+"Miltona,MN",46.0462,-95.2931
+"Salemburg,NC",35.0152,-78.5029
+"Huntley,MT",45.8995,-108.3054
+"Ronda,NC",36.2217,-80.9432
+"Assaria,KS",38.6802,-97.604
+"Peachland,NC",34.9931,-80.266
+"Sand City,CA",36.6189,-121.8478
+"Ranburne,AL",33.5259,-85.339
+"Montezuma Creek,UT",37.2563,-109.303
+"Naschitti,NM",36.0625,-108.68
+"Woodville,GA",33.6715,-83.1063
+"Big Springs,NE",41.061,-102.0745
+"White Lake,SD",43.7283,-98.712
+"Cofield,NC",36.3567,-76.9105
+"Sharpsburg,KY",38.2016,-83.9279
+"Dinosaur,CO",40.2402,-109.0078
+"McLemoresville,TN",35.9863,-88.5801
+"Tonalea,AZ",36.3218,-110.9667
+"Rowe,NM",35.4922,-105.6715
+"Dublin,NC",34.6562,-78.7231
+"Millerton,OK",33.9843,-95.019
+"Watts,OK",36.1073,-94.5717
+"Arpin,WI",44.5394,-90.0315
+"Little Mountain,SC",34.1968,-81.4128
+"Dexter,KY",36.7396,-88.2956
+"Oaks,OK",36.1695,-94.8526
+"Hawkins,WI",45.5114,-90.7148
+"Shirley,AR",35.6442,-92.3137
+"Riverside,WA",48.5049,-119.51
+"Byars,OK",34.8724,-97.0541
+"Smartsville,CA",39.2053,-121.2928
+"Wheeling,MO",39.7862,-93.386
+"Backus,MN",46.8207,-94.5149
+"Mantoloking,NJ",40.0435,-74.0514
+"Mashantucket,CT",41.4645,-71.9746
+"Nikolaevsk,AK",59.8295,-151.5964
+"Copper Center,AK",61.9845,-145.3544
+"Aspers,PA",39.9764,-77.226
+"Walloon Lake,MI",45.2719,-84.9413
+"Chunchula,AL",30.9237,-88.2072
+"Mount Hope,WI",42.9697,-90.8596
+"Noma,FL",30.9802,-85.6223
+"Hiseville,KY",37.1008,-85.8149
+"Industry,CA",34.0175,-117.9267
+"Peterson,MN",43.7868,-91.8333
+"Pittsburg,OK",34.7116,-95.8502
+"Bremen,KY",37.3623,-87.2201
+"Braxton,MS",32.0264,-89.9715
+"Lehigh,KS",38.3745,-97.3022
+"Maeystown,IL",38.2267,-90.233
+"Booneville,KY",37.4702,-83.6828
+"Pentress,WV",39.7101,-80.1685
+"Moorland,IA",42.4414,-94.2954
+"Volant,PA",41.1132,-80.2589
+"Pine River,WI",44.1483,-89.0757
+"Brandywine,WV",38.6219,-79.2413
+"Sedalia,CO",39.4396,-104.9699
+"Kingsbury,TX",29.6541,-97.8
+"Deer Park,AL",31.2198,-88.3226
+"Bascom,FL",30.9278,-85.1181
+"Rosalia,KS",37.8158,-96.625
+"Millston,WI",44.1885,-90.6446
+"Rome,OH",38.6657,-83.3793
+"Pembine,WI",45.6367,-87.9918
+"Fairview,OH",40.0573,-81.235
+"Talking Rock,GA",34.5277,-84.4941
+"Little Orleans,MD",39.6308,-78.3921
+"Valdez,CO",37.1239,-104.6794
+"Brandon,CO",38.4464,-102.4412
+"Franklin County,MO",38.4021095,-91.0841241
+"Old Bridge,NJ",40.399178000000006,-74.3409035740521
+"Evangeline Parish,LA",30.6976776,-92.4217813
+"Gunlock,KY",37.547597,-82.9259979
+"Chapeno,TX",26.53466625,-99.14969576259185
+"Derry,NH",42.8808677,-71.3264492
+"Orange County,FL",28.495156,-81.3111658
+"Smyrna,ME",46.1591454,-68.0941202
+"Whitehaven,TN",35.0273144,-90.0292581
+"Colton,OR",45.1720669,-122.4378631
+"Gaston County,NC",35.2849659,-81.179014
+"Eaton Rapids Township,MI",42.5637763,-84.66051611020313
+"Tewksbury,MA",42.6106479,-71.2342248
+"St Louis,MO",38.6529545,-90.24111656024635
+"La Paz County,AZ",33.7923828,-114.0184443
+"Roxand Township,MI",42.7267907,-84.89655146219351
+"Barton,MS",34.9639824,-89.6892502
+"Putnam Hall,FL",29.7366333,-81.9592635
+"Ruth,MS",31.3815627,-90.316482
+"Lawrence County,AL",34.4776367,-87.3017331
+"Coal County,OK",34.5661009,-96.2944665
+"Red Valley,AZ",36.970667250000005,-109.3913319137331
+"Clarendon,NY",43.1758372,-78.05632768626069
+"Islip,NY",40.7287274,-73.21360733221161
+"South Los Angeles,CA",33.9282906,-118.2788135
+"Wilmington,CA",33.7800164,-118.262509
+"Webster,MA",37.2895151,-92.8792111
+"Jasper,OH",39.05007,-83.0565679
+"Carollwood,FL",28.0542573,-82.5017518003036
+"Hamilton,NJ",40.2070573,-74.0812506
+"Jefferson County,ID",43.8010248,-112.3498022
+"Pottawatomie County,OK",35.1783637,-96.969909
+"Straban Township,PA",39.8510834,-77.18839392368676
+"Sylmar,CA",34.3076252,-118.4492148
+"Rufe,OK",34.1237158,-95.1441197
+"Bunch,OK",35.6825898,-94.761058
+"Kings County,CA",36.0784807,-119.7956342
+"Chavies,KY",37.3478703,-83.3562912
+"Venice,CA",33.988334949999995,-118.46152716615018
+"Constantia,NY",43.247847,-76.000197
+"Ft. Lauderdale,FL",26.1223084,-80.1433786
+"Ideal Beach,NJ",40.4440337,-74.110099
+"Rockville,GA",39.0286385,-77.1032229
+"Lyndhurst,NJ",40.8120247,-74.1242816
+"Okmulgee County,OK",35.6677078,-95.9690122
+"Wilderville,OR",42.3827937,-123.4662808
+"Greece,NY",43.2097838,-77.6930602
+"Roslindale,MA",42.2912093,-71.1244966
+"Ellis County,TX",32.3347829,-96.7920233
+"Fuqua,TX",30.4471514,-94.7363152
+"Byram,NJ",40.4237156,-75.059615
+"Bexar County,TX",29.4263987,-98.5104781
+"Wood Lake,ND",47.9011949,-98.84220527277378
+"Coney Island,NY",40.57592745,-73.99219592886062
+"York County,VA",39.9067499,-76.7008946
+"Malone,NY",44.84881,-74.295044
+"Edinburg,NY",43.2217388,-74.1040191
+"Josephine County,OR",42.3554368,-123.5602707
+"Bath,NH",44.1673526,-71.9654925
+"Ashe County,NC",36.4393554,-81.5076569
+"Mt. Auburn,OH",39.627275,-84.6588413
+"Studio City,CA",34.1483989,-118.3961877
+"Powhatan County,VA",37.5531622,-77.9112655
+"San Diego County,CA",32.9637838,-116.7706277
+"Maui,HI",20.802956799999997,-156.31068331602177
+"Antioch,TN",36.3558822,-86.2549901
+"Bolton,CT",41.7689878,-72.4334173
+"Bloomfield Township,MI",42.575186,-83.29398114814815
+"Hunters,WA",48.1172016,-118.2020358
+"Brick Township,NJ",40.0707244,-74.1280562
+"Weitchpec,CA",41.1881821,-123.7083942
+"Merrimack,NH",42.8650864,-71.4934004
+"Little Havana,FL",25.7681503,-80.2334686
+"Potsdam,NY",44.6697996,-74.9813349
+"West Knox,TN",35.9859998,-83.9375598
+"Panorama City,CA",34.2242902,-118.4453745
+"Washington County,AL",31.3991238,-88.2019828
+"Barberville,FL",29.1872023,-81.420901
+"Happy Valley,CA",37.0289044,-121.9870994
+"Grayson County,VA",33.5636114,-96.6702111
+"San Ysidro,CA",32.5520013,-117.0430813
+"Woodbridge,NJ",40.55418,-74.28600076944446
+"Old Saybrook,CT",41.2917652,-72.3761956
+"Pinion Hills,CA",39.1501882,-119.7007335
+"Cato Township,MI",43.44186295,-85.26369287952022
+"Lakes Charles,LA",30.3817704,-91.2034694
+"Pine Top,KY",37.2726002,-82.8823826
+"Kenai Peninsula,AK",60.0968272,-151.788033
+"Point Loma,CA",32.7265255,-117.2444542
+"Norwood,OK",36.0303558,-84.3235371
+"Old Town,FL",29.6013454,-82.9817927
+"Pacific Beach,CA",32.7978268,-117.2403183
+"North Laredo,TX",27.5236998,-99.497352
+"Braxton County,WV",38.699643,-80.7012614
+"Gibson County,TN",35.9745692,-88.932729
+"Eden,GA",36.4884715,-79.7667026
+"Germantown,PA",40.0434449,-75.1801775
+"Whitfield County,GA",34.7969288,-84.9745026
+"Leon County,TX",31.2715127,-95.9953382
+"Little Egg Harbor,NJ",39.57998605,-74.27891468547114
+"Opa-Locka,FL",25.9023168,-80.2503271
+"Benton Township,MI",45.60662985,-84.35896924186255
+"Manatee,FL",27.5213933,-82.3801566
+"Paulding County,GA",33.8908526,-84.8569161
+"Lampe,MO",36.5636755,-93.437964
+"Mount Washington,PA",40.4309025,-80.0103312
+"Thurston County,WA",46.9319983,-122.8855155
+"Canaan Township,PA",41.5664183,-75.39752704847083
+"Maryneal,TX",32.2354051,-100.4503798
+"Ragley,LA",30.512699,-93.2323813
+"Upper Darby,PA",39.9284459,-75.2737955
+"Daviess County,KY",37.6877924,-87.0818357
+"Geneva,WI",42.5916836,-88.4334301
+"Penn Township,PA",40.368781,-79.65130846854063
+"Spenard,AK",61.1886111,-149.9063889
+"Hollywood Hills,CA",34.1311792,-118.3355474
+"Petroleum,WV",39.1909105,-81.2684485
+"North Hills,CA",34.2429575,-118.4854081
+"Cobb County,GA",33.9149416,-84.5149394
+"Clackamas County,OR",45.1608821,-122.2305038
+"Perry Township,OH",38.48937065,-82.58954207897068
+"Union Grove,NC",36.0245784,-80.8661825
+"Abingdon,MD",39.4623305,-76.2791236
+"Barrow,AK",71.387113,-156.4809618
+"Henderson County,TX",32.182598,-95.7893178
+"Arvonia,VA",38.4805689,-95.8697111
+"Van Nuys,CA",34.1866193,-118.4486669
+"Fairfield,CT",38.2493581,-122.039966
+"Bailey,CO",34.0349194,-102.8149372
+"Cheektowaga,NY",42.9086793,-78.74809257103851
+"Florence,CA",33.9741588,-118.2432856
+"Anson County,NC",34.9705848,-80.0958187
+"Fort Littleton,PA",40.0628635,-77.9636117
+"Raleigh,TN",35.2059218,-89.9136985
+"Pueblo of Laguna,NM",35.0367284,-107.3828226
+"Clearlake Park,CA",38.966564,-122.6510961
+"Macon County,AL",32.366606,-85.6660307
+"Rotterdam,NY",42.7870209,-73.9709583
+"Brooksville,AL",34.1620404,-86.4755431
+"Berne,NY",42.6253546,-74.1334647
+"Milcreek,UT",40.7003665,-111.8277782
+"Boyle Heights,CA",34.0436892,-118.2097684
+"Osteen,FL",28.8461019,-81.1625612
+"Shawnee National Forest,IL",37.513465100000005,-88.64215356882195
+"Siskiyou County,CA",41.5007223,-122.54435414752092
+"Fisty,KY",37.3339851,-83.1015577
+"Chesterfield County,SC",34.6500578,-80.1417843
+"Oxford,MA",39.7852062,-75.9790215
+"Eastaboga,AL",33.6059367,-86.0213587
+"Deland,FL",29.0283213,-81.3031098
+"Norman,VA",35.2225717,-97.4394816
+"Ishpeming Township,MI",46.623265950000004,-87.67675414329108
+"Iredell County,NC",35.8101636,-80.8805593
+"Tiverton,RI",41.6257406,-71.166333
+"Peterborough,NH",42.8776166,-71.949383
+"Columbia Township,MI",42.10957565,-84.28681073229657
+"Thomaston,CT",40.7862124,-73.7137421
+"Laguna Pueblo,NM",34.986220700000004,-107.23814866045801
+"Ouachita Parish,LA",32.4790511,-92.1615004
+"Park County,CO",38.3064382,-87.2580643
+"Lake Asbury,FL",30.0564206,-81.82227426482466
+"Little Egg Harbor Township,NJ",39.6452742,-74.366968
+"City Terrace,CA",34.0500116,-118.1828495
+"Manchester,NJ",39.9734957,-74.3816966
+"Edmund,SC",33.8614622,-81.1997259
+"Stafford,VA",38.0350094,-98.718816
+"Hammett,ID",42.9457307,-115.4661859
+"Scott County,VA",39.6333408,-90.4753685
+"Counce,TN",35.0423075,-88.2733741
+"Augusta,WV",39.2953787,-78.6377912
+"East Hollywood,CA",34.0904277,-118.2966254
+"Myra,TX",33.6239966,-97.3144625
+"Oak Cliff,TX",32.7392973,-96.8111126
+"McDowell,MO",36.8242287,-93.7932554
+"Sylvania Township,OH",41.7152627,-83.70426834796459
+"Logan Canyon,UT",41.7253616,-111.7600874
+"Wood County,TX",32.7577475,-95.3812941
+"Decatur County,TN",35.6067875,-88.1083982
+"Ventnor,NJ",39.3405045,-74.4773916
+"Hessel,MI",46.0041827,-84.425869
+"Killeen,AL",31.1123035,-97.7872466
+"Livingston Parish,LA",30.4158699,-90.7189344
+"Muckleshoot Indian Reservation,WA",47.25061375,-122.10441478712133
+"North St. Louis,MO",38.70488,-90.2173924
+"Chatsworth,CA",34.2595715,-118.6023247
+"Maurice River,NJ",39.231781,-75.0287888
+"Hensley,WV",37.4740011,-81.6998327
+"York County,PA",39.9067499,-76.7008946
+"Naples,ME",43.972063,-70.609818
+"Forks Township,PA",40.739360500000004,-75.21732561588996
+"Campbellton,TX",28.7451128,-98.3012581
+"Loxahatchee,FL",26.973524,-80.131002
+"Huntingdon County,PA",40.3446332,-78.0281185
+"Reagan,TN",35.52174,-88.3425424
+"Woodford,VA",40.8145359,-89.2074215
+"Jean,NV",35.7790078,-115.324314
+"Waldoboro,ME",44.095476,-69.375916
+"Algoma Township,MI",43.17145845,-85.61092385747594
+"Lancaster City,PA",40.03813,-76.3056686
+"Madison Township,OH",40.064451000000005,-82.31383705799328
+"Hollywood,CA",34.0980031,-118.329523
+"Olympic Valley,CA",39.1963221,-120.233598
+"Mt. Pleasant,TN",35.5342414,-87.206954
+"Howland Township,OH",41.219677,-80.805816
+"Jackson County,AL",34.7692447,-85.9867941
+"Geneva Township,OH",39.934337,-83.048196
+"Vassalboro,ME",44.4595251,-69.6778992
+"Grand Prarie,TX",31.8811338,-102.4967069
+"Aragonite,UT",40.7425261,-113.0015695
+"Corning,WI",45.25101665,-89.98315230696141
+"Union Township,PA",41.012716,-80.39763037872001
+"East Baton Rouge,LA",30.405761849999998,-91.18597450265686
+"Toms River,NJ",39.9537359,-74.1979576
+"Cranbury Township,NJ",40.307331649999995,-74.5271272690225
+"Cantonment,FL",30.605427,-87.344442
+"Suffield,CT",41.9816944,-72.6506604
+"Colebrook Township,OH",40.08577,-83.042058
+"Logan County,OK",35.8879493,-97.4621935
+"Wolf Creek,OR",42.6955158,-123.3952995
+"Lizella,GA",32.8070842,-83.8199072
+"Papaaloa,HI",19.973744,-155.222768
+"Eldorado,NM",35.5486459,-105.9089087
+"Tom,OK",33.7359468,-94.5729863
+"University City,CA",32.8547865,-117.2040305
+"Brighton Township,MI",42.5622222,-83.7305556
+"Baldwin County,AL",30.5677527,-87.7324392
+"Lower Mount Bethel,PA",40.9457182,-75.1171464
+"Belgrade,ME",44.447507,-69.833221
+"Arundel,ME",43.3825857,-70.4778292
+"Lakes Wales,FL",27.930035,-81.60457681756756
+"Gonzales County,TX",29.4436555,-97.5108636
+"Orrington,ME",44.7311829,-68.8264258
+"Trosper,KY",36.7884194,-83.8190885
+"Hampton,NH",42.9304376,-70.824896
+"Newton,NH",42.8695335,-71.0345018
+"St. Clair Township,OH",39.45054435,-84.53333561187327
+"Lawndale,IL",40.2186868,-89.2827052
+"Bonaire,GA",32.5438429,-83.5960264
+"Pleasant View,CO",36.3942164,-87.0366685
+"Madison,ME",44.7975598,-69.8797794
+"Mt Airy,MD",39.3762145,-77.154704
+"Spencer,MA",43.1413578,-95.1444393
+"Glenville,NY",42.8682502,-73.9282787
+"Mt. Airy,NC",36.4993297,-80.6071609
+"Lauderdale County,MS",32.3905206,-88.689636
+"Mead Township,PA",41.86578495,-78.94571122757272
+"Bon Aqua,TN",35.953397,-87.3269558
+"North Bergen,NJ",40.8042674,-74.012084
+"Blue Summit,MO",38.9376467,-94.4478655
+"Dalton,IL",39.7119804,-88.8045162
+"Habersham,GA",33.8792694,-84.2396434
+"Cosby,TN",35.8173184,-83.2468213
+"Crenshaw County,AL",31.6809362,-86.3244009
+"Brick,NJ",40.7508774,-74.0270041
+"Waterford Township,MI",42.6706391,-83.3896241
+"Orange,NJ",40.77117355,-74.23102475098881
+"New Milford,CT",42.1798043,-89.05669931594156
+"Lincoln Parish,LA",32.598162,-92.6792848
+"Poultney,VT",43.5171364,-73.2363426
+"Hixson,TN",35.1414606,-85.1746774
+"Bassett,CA",34.0497323,-117.9967323
+"Frametown,WV",38.6378762,-80.8584357
+"Coolin,ID",48.4796414,-116.8493715
+"Canton Township,PA",40.2012965,-80.29993725183743
+"West Ouachita,LA",32.4790511,-92.1615004
+"Canandaigua,NY",42.8858579,-77.2799761
+"Thomas County,GA",30.8668623,-83.9460576
+"Finney County,KS",38.0452481,-100.8199963
+"Wayne County,KY",36.7822106,-84.8250848
+"Kingwood,TX",30.0497077,-95.1846301
+"Fort Smith,OK",35.428109,-94.38509
+"Standing Rock Reservation,ND",45.9489511,-101.25453641990848
+"Plymouth Township,PA",40.109412750000004,-75.29834666183419
+"Horseheads,NY",42.167019,-76.8205119
+"Polk County,OR",44.879673,-123.4599594
+"Tate County,MS",34.6391136,-89.9335244
+"Owen County,IN",39.290850500000005,-86.69317886172756
+"Odanah,WI",46.6082759,-90.696851
+"Neshoba County,MS",32.7237573,-89.103199
+"Gibson,LA",29.6868756,-90.990653
+"Hinds County,MS",32.2506391,-90.4793259
+"St. Tammany Parish,LA",30.4243909,-89.9730381
+"Tremont,NY",40.8468963,-73.8997552
+"Cedar Lake,TX",28.9010869,-95.6368955
+"Warren County,KY",36.9812407,-86.4233533
+"Greenville County,SC",34.8550021,-82.3356457
+"Holland Township,MI",44.20223785,-84.91236585855006
+"Penasco,NM",36.1696699,-105.686483
+"Eaton County,MI",42.5935964,-84.8443666
+"Hillyard,WA",47.70414305,-117.36275657190404
+"North Hollywood,CA",34.1729044,-118.3740371
+"Miami Township,OH",39.200016000000005,-84.24106985103093
+"Romance,AR",35.2409171,-92.051258
+"Manchester Township,PA",40.012024499999995,-76.7534068646168
+"Lexington County,SC",33.8986841,-81.275054
+"El Sereno,CA",34.0811213,-118.1778495
+"Adams County,CO",39.9787786,-91.2110065
+"Franklin County,OH",40.0283162,-83.0076657
+"Ebey Island,WA",47.9695409,-122.1618
+"Chatham County,GA",32.140799,-81.2041286
+"Union Township,MI",43.596874,-84.82286573556303
+"Reading,MA",42.5256502,-71.0953314
+"Bolton,VT",44.3728323,-72.8806764
+"Guadalupe County,TX",29.6480061,-97.8279576
+"Stutsman County,ND",46.9596318,-98.9742609
+"Monongalia,WV",39.6391074,-80.0300399
+"Crawford County,OH",40.8705909,-82.9065596
+"Henrico,VA",37.5137752,-77.3287573
+"Bristol Township,PA",40.122900200000004,-74.86447057681232
+"Pima County,AZ",32.1112624,-111.6546163
+"Abington Township,PA",40.11016755,-75.1167218823077
+"Carroll County,GA",33.52788745,-84.92505098143783
+"Barnwell,AL",30.4249194,-87.8794366
+"Oil Springs,KY",37.8100924,-82.942388
+"Shelbyville,TX",31.7607346,-94.0781923
+"Spotsylvania,VA",38.200965,-77.589154
+"Blackman Township,MI",44.190644,-83.926938
+"Valley View,CA",34.3043406,-116.4542595
+"Lone Rock,AR",36.1806251,-92.3446022
+"Scott County,KY",38.2776401,-84.5816131
+"Timberlake,NC",34.9737749,-78.9794735
+"Amelia Island,FL",30.6077379,-81.4600909
+"Greenspoint,TX",29.952708,-95.4053198
+"Genesee Township,MI",43.0924025,-83.63603699716623
+"Wise County,VA",33.2139213,-97.6563925
+"Lower Macungie Township,PA",40.5283605,-75.59507842695808
+"Goodbee,LA",30.4957475,-90.1975809
+"Reynoldsville,WV",39.2884222,-80.4348145
+"Searcy County,AR",35.9018987,-92.7098744
+"Reseda,CA",34.2000784,-118.5369884
+"Baldwin Hills,CA",34.0176157,-118.381694
+"Winn Parish,LA",31.947293,-92.6401816
+"Pembroke,NY",42.9975593,-78.4347444
+"Cumberland County,KY",36.7934611,-85.3795095
+"Greene County,MO",37.2671929,-93.3465486
+"Sugar House,UT",40.7254487,-111.8596868
+"Pavilion Township,MI",42.20652695,-85.471865600282
+"West Olive,MI",42.921341,-86.1471466
+"Floyd County,GA",34.0266015,-101.2765537
+"Amite,LA",30.7265747,-90.5089815
+"Wales,ME",44.1727243,-70.0521756
+"Sunridge,NV",39.3434893,-119.8626718
+"Baxter,KY",36.8598108,-83.3307371
+"Citra,FL",29.4119166,-82.1098156
+"Madison County,MS",32.6308318,-90.0040817
+"Hardwick,NJ",41.054541,-74.9321157
+"Deptford,NJ",39.8271755,-75.1235892
+"Westminister,CO",32.8270842,-83.6996266
+"Pike County,OH",39.1056387,-83.0611404
+"Hall County,GA",34.5036637,-100.6536777
+"Warwick,NY",41.256483,-74.3598755
+"North Shore,HI",21.88638285,-159.49278562323246
+"Devil's Lake,ND",48.112779,-98.86512
+"Calaveras County,CA",38.2558181,-120.4981492
+"Puna,HI",19.586716199999998,-155.08133892775822
+"Hanover,CO",39.8063247,-76.9842735
+"Lake Havasu,AZ",34.4105067,-114.29087205807807
+"LaFollette,TN",36.3828571,-84.1199251
+"Kent Station,WA",47.3846055,-122.2326295
+"South Whitehall Township,PA",40.6100129,-75.55765394990105
+"Mississippi County,AR",35.7547987,-90.0875933
+"Sussex County,VA",41.06885,-74.75722378960634
+"Monroe County,IN",43.08248835,-77.67291102378641
+"Salt River Reservation,AZ",33.4667115,-111.8640311
+"Olustee,FL",30.2041226,-82.42873
+"Gonic,NH",43.2748308,-70.9787931
+"Montgomery County,VA",39.74285375,-84.26071713311354
+"Maspeth,NY",40.723158,-73.912637
+"Christian County,KY",36.8778665,-87.5014545
+"Stanfordville,NY",41.8673152,-73.7142954
+"Johns Island,SC",32.7024009,-80.0481488
+"Epping,NH",43.0394461,-71.0730253
+"Larimer County,CO",40.6810174,-105.4726907
+"Orem,OR",45.1576293,-122.506117
+"Darlington County,SC",34.3609331,-79.9438572
+"Shelby Township,MI",43.60107655,-86.33794306170321
+"Clear Creek Canyon,CO",39.9334336,-111.2124744
+"Cocke County,TN",35.9467093,-83.103978
+"Camp Croft,SC",34.9106819,-81.8528801
+"Charleston View,CA",35.9714157,-115.873689
+"Wythe County,VA",36.9118401,-81.0639347
+"Auburn,MA",32.6098566,-85.4807825
+"Franklinton,OH",39.9571326,-83.0260317
+"Lincoln Township,MI",43.50975045,-84.78687760493247
+"Gunnison County,CO",38.6476702,-107.0603126
+"Philadephia,PA",39.9860268,-75.2500987
+"Henry County,GA",41.3418549,-90.1177442
+"Noble County,OK",36.4129621,-97.2681939
+"Bibb County,GA",32.9019313,-83.68985324413123
+"Rangley,CO",39.8737953,-108.73192604000141
+"Pope County,AR",35.453867,-93.0498623
+"Natomas,CA",38.6274994,-121.4979041
+"Franklin Township,PA",40.8557299,-75.66859788080849
+"Davidson County,NC",35.7902384,-80.2115053
+"Greenport,NY",41.1034234,-72.3592777
+"Treme,LA",29.966746,-90.0681068
+"Dearborn County,IN",39.175296599999996,-84.8271874495152
+"Logan Township,NJ",39.794784199999995,-75.34883103965379
+"Mercury,NV",36.6605105,-115.9944747
+"Kirkwood,NY",42.0397993,-75.7971341
+"Tehama County,CA",40.1251334,-122.2015529
+"Kalihi,HI",21.3361131,-157.8716339
+"LaSalle,CO",41.3474892,-88.9011861
+"Walter Hill,TN",35.9556191,-86.3797141
+"Stone County,MS",30.7843863,-89.1342764
+"Napa Valley,CA",38.2971367,-122.2855293
+"Walton,WV",38.6389816,-81.4020653
+"McIntosh County,GA",31.4979689,-81.3921575
+"Huger,SC",33.0965591,-79.803412
+"Carter County,KY",38.3199171,-83.0039034
+"Cheatham County,TN",36.2444954,-87.0967857
+"Pennfield Township,MI",42.3733731,-85.1024911
+"Salacoa,GA",34.3906474,-84.6113207
+"Monroe County,MS",33.8884929,-88.4747009
+"Ernul,NC",35.2526614,-77.079671
+"Horry County,SC",33.9204504,-78.9578973
+"Cochran County,TX",33.5905096,-102.805677
+"Watuaga County,NC",36.3019712,-81.9706032
+"Hamilton County,TN",35.1755638,-85.1940792
+"Henry County,IN",31.6446483,-85.1013698
+"Ahwatukee,AZ",33.3194186,-112.0312962
+"Wethersfield,CT",41.7142665,-72.6525922
+"Hancock County,MS",30.3892456,-89.4782116
+"Meadowlake,NM",34.80451,-106.5420976
+"Hiltons,VA",36.6545454,-82.4670941
+"Tunbridge,VT",43.8888542,-72.4937239
+"Montgomery,NY",41.5275938,-74.236816
+"Pearl River County,MS",30.7761604,-89.5984726
+"Indian River County,FL",27.7041555,-80.5894422
+"Gorham,ME",43.679697,-70.4429632
+"Davidsonville,MD",38.9228697,-76.6277374
+"Bonnyman,KY",37.2898169,-83.2362862
+"Hopkins County,TX",33.1368252,-95.5656578
+"Belmont,NH",43.4454035,-71.478381
+"Big Sur,CA",36.270241,-121.8074545
+"Phoenix,MD",39.5163872,-76.6177815
+"Wolfe County,KY",37.7430509,-83.4868591
+"Denton County,TX",33.1838787,-97.1413417
+"Pontotoc County,MS",34.2114655,-89.0382651
+"Bagley Township,MI",44.97994185,-84.66644009128945
+"Penn Hills,PA",40.4729398,-79.8176723
+"Pemberton,NJ",39.971560999999994,-74.68521590760247
+"Ross Township,PA",40.5419843,-80.0114344
+"Sun City,SC",32.3033442,-80.9555618
+"Boyton Beach,FL",28.0807231,-82.543444
+"Irvington,NJ",40.7323235,-74.2348684
+"Pocahontas County,WV",38.3022233,-80.0286878
+"Shaler Township,PA",40.5218904,-79.9616141
+"Springville,IN",40.8615978,-72.52905693678639
+"Helena,AR",34.5291,-90.59
+"East Hartford,CT",41.7823216,-72.6120346
+"Cotter,MO",38.1855276,-90.5363374
+"Drennen,WV",38.2706628,-80.9981574
+"Ethel,LA",30.7912935,-91.1306623
+"Hope Ranch,CA",34.421942,-119.7709714
+"Sherman Oaks,CA",34.1508718,-118.4489865
+"Creek County,OK",35.8830723,-96.3835476
+"Ona,WV",38.4248088,-82.2132003
+"Pettis County,MO",38.7346291,-93.2991713
+"Leon,WI",43.8774673,-90.8301331
+"Ashtabula Township,OH",41.865054,-80.789809
+"Union County,SC",34.6941696,-81.642794
+"Mandarin,FL",30.1507645,-81.6474089
+"Franklin County,WA",42.7285907,-93.2513168
+"West Kewaunee,WI",44.4565755,-87.5877894356337
+"Gaines Township,MI",42.8116312,-85.6045246305587
+"Sparks,MD",39.5303908,-76.6458407
+"Barton County,MO",37.5040024,-94.3620755
+"Hanover Township,PA",41.203213000000005,-75.92334213828693
+"St. Helena Parish,LA",30.8080103,-90.6932182
+"Arietta,NY",43.246203,-74.51786
+"Nelson Township,PA",39.8612227,-75.4913104
+"Washita County,OK",35.2917033,-98.9966972
+"Redford Township,MI",42.3945469,-83.2953927
+"Smith County,TN",36.2549331,-85.9741567918973
+"Randolph County,IN",35.6705809,-79.8307134
+"Emery County,UT",38.9844774,-110.8038549
+"Limerick,ME",43.6884112,-70.7936719
+"Richmond County,VA",40.564209,-74.12530461995391
+"Fleetwood,NC",36.3062384,-81.5134378
+"Coden,AL",30.3829771,-88.2383363
+"Deposit,NY",42.0600834,-75.4276769
+"Minot,ME",44.086105,-70.32074
+"Ono,CA",40.4751501,-122.6180702
+"Washoe,NV",40.5849048,-119.6131606
+"Brookline,MA",42.3317642,-71.1211635
+"Achorage,AK",61.193980100000005,-149.7757576548515
+"Newbury,MA",42.7961518,-70.8610435
+"Harrison County,IN",30.4131895,-89.0732897
+"Greenville,TN",36.2969971,-86.8883332
+"Pinetop,AZ",34.1258775,-109.9376056
+"DeKalb County,GA",33.8784649,-84.3010793
+"Edison,CA",35.3474591,-118.8717638
+"Harrison Township,OH",39.26171325,-84.79224248526997
+"Elkton,FL",29.7830248,-81.4259091
+"Mecklenburg,VA",38.7570604,-76.0691077
+"Franklin County,TN",35.1680139,-86.1084401
+"WInston Salem,NC",36.0998131,-80.2440518
+"Linwood,NC",35.7506938,-80.3178306
+"Newburgh,NY",41.5034271,-74.0104179
+"Lincoln CIty,OR",44.9617922,-124.0159522
+"Manchester,CT",42.9956397,-71.4547891
+"Milford,MA",41.2226155,-73.04622662165758
+"Caddo Parish,LA",32.529173,-93.8931785
+"Hiram,ME",43.879088,-70.803452
+"Madera County,CA",37.1716264,-119.7737991
+"Martin County,KY",37.8022242,-82.5077178
+"Caldwell County,NC",35.9417876,-81.5262567
+"Union Township,OH",38.470355,-82.43079337982422
+"St. Francis County,AR",35.0153956,-90.7263194
+"Bass River,NJ",39.5926182,-74.4426494
+"Geneseo,NY",42.80453775,-77.77145715002706
+"Jefferson Parish,LA",29.8502657,-90.1293894
+"Fountain,FL",30.4788051,-85.4196476
+"DeKalb County,TN",35.9804643,-85.83965
+"Paso Robles,CA",35.6267654,-120.6912456
+"Joilet,IL",41.526413,-88.082983
+"Watsonsville,CA",36.914442,-121.760778
+"Jacksonsville,FL",30.355863,-81.645209
+"Aldie,VA",38.975555,-77.642033
+"McKinneyville,CA",40.956111,-124.098237
+"Weeki Wachi,FL",28.516046,-82.575159
+"Simpsonsville,KY",38.221519,-85.355763
+"Barona Indian Reservation,CA",32.95707,-116.837808
+"Frederickstown,WA",39.999972,-79.997091
+"Watagua,TX",32.873087,-97.257176
+"Columbua,IN",39.227795,-85.905705
+"North Fort Collins,CO",40.576373,-105.0856
+"Rudioso,NM",33.324144,-105.683592
+"Pelehatchie,MS",32.309653,-89.798034
+"Porteau,OK",35.042979,-94.62283
+"Elizabethon,TN",36.349466,-82.221623
+"Shelby Gap,KY",37.233389,-82.534379
+"Mufreesboro,TN",35.849438,-86.398821
+"Cañon City,CO",38.454516,-105.221274
+"Tuscson,AZ",32.211389,-110.94838
